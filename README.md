@@ -22,3 +22,5 @@ python .\supabase\upload_quarantine.py https://<project-ref>.supabase.co
 ```
 
 O segundo comando solicita `service_role` com entrada oculta. Não compartilhe essa chave. Para uso da aplicação no navegador, use somente uma chave publicável/anon.
+
+`supabase/promote_quarantine.py` libera para prática apenas questões com ao menos duas alternativas e gabarito correspondente. As demais permanecem privadas. O comando atualiza o conteúdo da aplicação, verifica as contagens e solicita `service_role` com entrada oculta. As questões liberadas por esse fluxo continuam identificadas como pendentes de revisão editorial; os gabaritos ainda precisam ser conferidos nas fontes.

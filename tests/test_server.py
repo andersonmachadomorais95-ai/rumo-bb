@@ -24,9 +24,19 @@ class API(unittest.TestCase):
   with self.assertRaises(urllib.error.HTTPError):self.request('/api/restore',bad)
   self.assertEqual(self.request('/api/export'),before)
  def test_04_quarantine_blocked(self):
-  q=next(q for q in server.load('questoes') if q['status']=='quarentena')
+  q=next(q for q in server.load('questoes') if q['status']=='quarentena' and q['id'] not in server.QUESTIONS)
   e={'id':str(uuid.uuid4()),'type':'answer','at':'2026-10-24T12:00:00Z','payload':{'questionId':q['id']}}
   with self.assertRaises(urllib.error.HTTPError):self.request('/api/event',e)
+ def test_08_practice_content_is_structurally_answerable(self):
+  self.assertEqual(server.CONTENT['coverage']['released'],5067)
+  self.assertEqual(server.CONTENT['coverage']['quarantine'],83)
+  self.assertEqual(server.CONTENT['coverage']['reviewPending'],5045)
+  alternatives={}
+  for a in server.CONTENT['alternatives']:alternatives.setdefault(a['questao_id'],[]).append(a)
+  for q in server.CONTENT['questions']:
+   answer=server.ANSWERS[q['id']]['resposta']
+   self.assertGreaterEqual(len(alternatives[q['id']]),2)
+   self.assertIn(answer,{a['letra'] for a in alternatives[q['id']]})
  def test_05_csrf_rejected(self):
   with self.assertRaises(urllib.error.HTTPError):self.request('/api/event',{},headers={'Content-Type':'application/json','X-BB-App':'1','Origin':'https://example.com'})
  def test_06_pdf(self):

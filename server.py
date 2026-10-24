@@ -4,6 +4,7 @@ from pathlib import Path
 from urllib.parse import unquote,urlsplit
 import os,json,sqlite3,datetime,uuid,hashlib,mimetypes,shutil
 from contextlib import contextmanager,closing
+from content_policy import is_practice_eligible
 ROOT=Path(__file__).resolve().parent
 PACKAGE=ROOT.parent/'Gran Banco do Brasil'/'pacote-conteudo-v1'
 DATA=Path(os.environ.get('BB_DATA_DIR',str(Path(os.environ.get('LOCALAPPDATA',Path.home()))/'RumoBB')))
@@ -21,10 +22,21 @@ def connect():
  finally:c.close()
 def load(name):return json.loads((PACKAGE/'dados'/f'{name}.json').read_text(encoding='utf8'))['registros']
 def build_content():
- qs=load('questoes');questions=[q for q in qs if q['status']=='liberada'];ids={q['id'] for q in questions};discs=load('disciplinas')
+ qs=load('questoes');alternatives=load('alternativas');answers={a['questao_id']:a for a in load('gabaritos')};by_question={}
+ for alternative in alternatives:by_question.setdefault(alternative['questao_id'],[]).append(alternative)
+ questions=[]
+ review_pending=0
+ for q in qs:
+  eligible=q['status']=='liberada' or (q['status']=='quarentena' and is_practice_eligible(q,by_question.get(q['id'],[]),answers.get(q['id'])))
+  if not eligible:continue
+  item=dict(q)
+  if q['status']=='quarentena':
+   item['status']='liberada';item['uso']='treino';review_pending+=1
+  questions.append(item)
+ ids={q['id'] for q in questions};discs=load('disciplinas')
  weights={'Língua Portuguesa':15,'Língua Inglesa':5,'Matemática':7.5,'Matemática Financeira':7.5,'Atualidades do Mercado Financeiro':5,'Conhecimentos Bancários':15,'Conhecimentos de Informática':22.5,'Vendas e Negociação':22.5}
  for d in discs:d['weight']=weights[d['nome']]/10
- return {'version':'1.0','questions':questions,'subjects':load('assuntos'),'disciplines':discs,'alternatives':[a for a in load('alternativas') if a['questao_id'] in ids],'contexts':load('contextos'),'documents':load('documentos'),'sections':load('secoes_documentos'),'attachments':[a for a in load('anexos') if a['tipo']!='link_externo'],'theory':load('trechos_teoria'),'coverage':{'total':len(qs),'released':len(ids),'quarantine':len(qs)-len(ids)}}
+ return {'version':'1.0','questions':questions,'subjects':load('assuntos'),'disciplines':discs,'alternatives':[a for a in alternatives if a['questao_id'] in ids],'contexts':load('contextos'),'documents':load('documentos'),'sections':load('secoes_documentos'),'attachments':[a for a in load('anexos') if a['tipo']!='link_externo'],'theory':load('trechos_teoria'),'coverage':{'total':len(qs),'released':len(ids),'quarantine':len(qs)-len(ids),'reviewPending':review_pending}}
 CONTENT=build_content()
 QUESTIONS={q['id']:q for q in CONTENT['questions']}
 ANSWERS={g['questao_id']:g for g in load('gabaritos')}
