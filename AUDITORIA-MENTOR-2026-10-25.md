@@ -1,5 +1,7 @@
 # Auditoria da publicação e do mentor — 25/10/2026
 
+> Registro histórico anterior ao motor bb-3.0. A distribuição, a preservação de tarefas e a classificação de questões vistas com consulta foram corrigidas depois desta auditoria. Consulte ENTREGA-90-DIAS.md para a situação atual.
+
 ## Escopo e publicação
 
 Frontend publicado em https://rumo-bb.vercel.app a partir do commit 4f72e13, confirmado visualmente em Hoje e Configurações. O código local anterior ainda não estava no Vercel. A tela anterior também mostrava descanso por ser domingo. Publicar no GitHub/Vercel não executa os scripts de importação do Supabase.
