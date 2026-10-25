@@ -1,4 +1,4 @@
-# Percurso de 90 dias — motor bb-3.0
+# Percurso de 90 dias — motor bb-3.1
 
 O plano segue os dias e minutos escolhidos, com horário preferido informativo. Em dias livres, o botão de estudo opcional cria tarefas sem alterar a semana. Não há expiração no 90º dia nem data de prova presumida.
 
@@ -27,6 +27,10 @@ Planos já gerados permanecem estáveis após respostas. Alterações explícita
 
 ## Verificações
 
-28 testes Node e 15 testes Python passaram com dados separados. Simulação do catálogo real durante 90 dias corridos, cinco dias por semana, três trajetórias de desempenho: 65 dias de estudo, oito matérias contempladas, zero dias de estudo vazios, 798–846 respostas, 661–673 famílias novas, média próxima de 117 minutos planejados. Resultados em tests/simulacao-90-dias.jsonl. Não são previsão de resultados do aluno.
+28 testes Node e 15 testes Python passaram com dados separados. Simulação do catálogo real durante 90 dias corridos, cinco dias por semana, três trajetórias de desempenho: 65 dias de estudo, oito matérias contempladas, zero dias de estudo vazios, 1119–1306 respostas, 915–1085 famílias novas, média próxima de 117 minutos planejados. Resultados em tests/simulacao-90-dias.jsonl. Não são previsão de resultados do aluno.
 
 O estudo diário não depende de geração de questões, de IA ou do Gran. Requer internet e disponibilidade do Supabase/Vercel. O banco é finito; revisão editorial e confirmação normativa permanecem necessárias para os itens sinalizados. O modelo não promete aprovação nem cobertura integral de todos os microassuntos em 90 dias.
+
+## Sincronização confirmada
+
+5.024 questões ativas, IDs conferidos contra o catálogo; 126 PDFs verificados no bucket privado. Snapshot prévio em `%LOCALAPPDATA%/RumoBB/content-backups`. Questões retiradas foram arquivadas na própria tabela; eventos de alunos não foram alterados. A credencial temporária de importação foi removida.

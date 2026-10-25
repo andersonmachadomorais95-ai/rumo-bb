@@ -45,7 +45,7 @@ const answer = (index, correct = true, extra = {}) => ({
 test('diagnóstico inicial curto sugere teoria e prática sem exceder 120 minutos', () => {
  const diagnosis = diagnose(content, []);
  const plan = makePlan(content, [], new Date(2026, 9, 26, 9));
- assert.equal(MODEL, 'bb-3.0');
+ assert.equal(MODEL, 'bb-3.1');
  assert.equal(diagnosis.subjects.find(item => item.id === 's').mastery, 'Ainda estamos conhecendo seu desempenho');
  assert.ok(plan.tasks.some(task => task.kind === 'theory'));
  assert.ok(plan.tasks.some(task => task.kind === 'practice'));

@@ -1,6 +1,6 @@
 import { bancaProfile } from './banca.mjs';
 
-export const MODEL = 'bb-3.0';
+export const MODEL = 'bb-3.1';
 export const DEFAULTS = { name: 'Luciano', minutes: 120, days: [1, 2, 3, 4, 5], startTime: '19:00', horizonDays: 90, scheduleVersion: 3 };
 
 export const dayKey = (date = new Date()) => (
@@ -390,7 +390,7 @@ export function makePlan(content, events, now = new Date(), options = {}) {
   const choices=freshDisc.length?freshDisc:available;
   choices.sort((a,b)=>(total*weights.get(b)/weightTotal-(served.get(b)||0))-(total*weights.get(a)/weightTotal-(served.get(a)||0)) || a.localeCompare(b));
   const discipline=choices[0];
-  const ranked=candidates.filter(t=>t.disciplineId===discipline&&pools.get(t.id)?.length).sort((a,b)=>(slot%3!==2 ? Number(pools.get(b.id).some(q=>!diagnosis.seen.has(familyOf(q))))-Number(pools.get(a.id).some(q=>!diagnosis.seen.has(familyOf(q)))) : 0)||Number(tasks.some(t=>t.subjectId===a.id))-Number(tasks.some(t=>t.subjectId===b.id))||b.priority-a.priority||b.costBenefit-a.costBenefit||a.id.localeCompare(b.id));
+  const ranked=candidates.filter(t=>t.disciplineId===discipline&&pools.get(t.id)?.length).sort((a,b)=>(slot%3!==2 ? Number(pools.get(b.id).some(q=>!diagnosis.seen.has(familyOf(q))))-Number(pools.get(a.id).some(q=>!diagnosis.seen.has(familyOf(q)))) : 0)||Number(tasks.some(t=>t.subjectId===a.id))-Number(tasks.some(t=>t.subjectId===b.id))||((a.uniqueEvidence<3&&b.uniqueEvidence<3)?Math.min(6,pools.get(b.id).length)-Math.min(6,pools.get(a.id).length):0)||b.priority-a.priority||b.costBenefit-a.costBenefit||a.id.localeCompare(b.id));
   const topic=ranked[0];
   let pool=pools.get(topic.id).filter(q=>!reserved.has(familyOf(q)));
   if(!pool.length){pools.set(topic.id,[]);continue;}
@@ -404,7 +404,7 @@ export function makePlan(content, events, now = new Date(), options = {}) {
   const selected=[];
   for(const q of pool){if(reserved.has(familyOf(q)))continue;selected.push(q.id);reserved.add(familyOf(q));if(selected.length>=count)break;}
   if(!selected.length){pools.set(topic.id,[]);continue;}
-  const reason=topic.reason+' Esta matéria entra para equilibrar o percurso com a distribuição histórica de pontos.';
+  const reason=(!section&&topic.uniqueEvidence<3?'Vamos conhecer seu ponto de partida com questões. Ainda não há trecho de teoria vinculado a este assunto.':topic.reason)+' Esta matéria entra para equilibrar o percurso com a distribuição histórica de pontos.';
   const base=day+'-'+topic.id+'-'+slot++;
   if(needsTheory){tasks.push({id:base+'-theory',kind:'theory',subjectId:topic.id,title:'Estudar um trecho direcionado',minutes:theoryMinutes,reason,section});remaining-=theoryMinutes;}
   const practiceMinutes=Math.min(remaining,Math.max(10,selected.length*4));

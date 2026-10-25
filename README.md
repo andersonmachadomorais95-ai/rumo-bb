@@ -90,7 +90,7 @@ O plano do dia é persistido e não é reorganizado a cada resposta. Novas respo
 As escolhas de dias são preservadas inclusive em registros antigos. Não há migração automática de cinco para seis dias. O horário preferido é configurável e informativo, sem notificações ou bloqueio de acesso. O tempo disponível é limitado a 120 minutos por dia; alterações na rotina só afetam planos futuros.
 
 
-## Atualização bb-3.0 — percurso de 90 dias
+## Atualização bb-3.1 — percurso de 90 dias
 
 A distribuição agora é feita primeiro por matéria: déficit entre tempo planejado acumulado e participação histórica de pontos. Dentro da matéria, o diagnóstico seleciona assunto executável com questões já cadastradas. Duas de cada três vagas priorizam assuntos com famílias inéditas, quando disponíveis; a outra permite manutenção e erros. Isso é uma regra pedagógica, não probabilidade de cobrança.
 
@@ -98,6 +98,6 @@ Blocos de até 40 minutos combinam teoria de 15 minutos, quando há trecho mapea
 
 No dia livre, Hoje oferece “Quero estudar hoje” sem mudar os dias da rotina. Horizonte: 90 dias corridos; o aplicativo não expira depois disso. O banco é finito e não há garantia de questões inéditas em todos os microassuntos indefinidamente.
 
-Teste com o catálogo real, três trajetórias (80% de acertos, todos errados e todos certos), 90 dias, segunda a sexta: 65 dias de estudo, oito matérias contempladas, nenhum dia de estudo vazio, 798–846 respostas e 661–673 famílias novas; cerca de 117 minutos planejados/dia. A simulação não prevê resultados do aluno e não comprova a correção editorial dos gabaritos. Script: `tests/simulate_90_days.mjs`, passando um JSON do conteúdo preparado como argumento.
+Teste com o catálogo real, três trajetórias (80% de acertos, todos errados e todos certos), 90 dias, segunda a sexta: 65 dias de estudo, oito matérias contempladas, nenhum dia de estudo vazio, 1119–1306 respostas e 915–1085 famílias novas; cerca de 117 minutos planejados/dia. A simulação não prevê resultados do aluno e não comprova a correção editorial dos gabaritos. Script: `tests/simulate_90_days.mjs`, passando um JSON do conteúdo preparado como argumento.
 
 A sincronização segura em `supabase/sync_safe.py` salva snapshot fora do repositório, interrompe em gabarito divergente, prepara PDFs antes de ativar o catálogo e arquiva itens retirados sem apagar eventos. Não publique credenciais administrativas.
