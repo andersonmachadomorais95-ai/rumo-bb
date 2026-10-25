@@ -2,12 +2,16 @@ import contextlib
 import io
 import os
 import sys
+import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
 
+test_data = tempfile.TemporaryDirectory(prefix="BB quarantine test ")
+os.environ["BB_DATA_DIR"] = test_data.name
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "supabase"))
 import upload_quarantine
+import promote_quarantine
 
 
 class QuarantineImport(unittest.TestCase):
@@ -16,7 +20,7 @@ class QuarantineImport(unittest.TestCase):
         cls.rows = upload_quarantine.build_rows()
 
     def test_only_quarantined_questions_are_included(self):
-        self.assertEqual(len(self.rows), 5128)
+        self.assertEqual(len(self.rows), 5127)
         self.assertEqual(len({row["id"] for row in self.rows}), len(self.rows))
         self.assertTrue(
             all(row["payload"]["question"]["status"] == "quarentena" for row in self.rows)
@@ -28,6 +32,20 @@ class QuarantineImport(unittest.TestCase):
     def test_related_content_is_attached_to_question(self):
         self.assertTrue(all(row["payload"]["question"]["id"] == row["id"] for row in self.rows))
         self.assertTrue(all("alternatives" in row["payload"] for row in self.rows))
+
+    def test_practice_promotion_excludes_unresolved_visuals_and_family_conflicts(self):
+        rows = promote_quarantine.build_rows()
+        self.assertEqual(len(rows), 5003)
+        self.assertTrue(
+            all(
+                not {
+                    "familia_com_gabaritos_divergentes",
+                    "elemento_visual_ausente",
+                    "contexto_ou_visual_a_conferir",
+                }.intersection(row["payload"]["motivos"])
+                for row in rows
+            )
+        )
 
     def test_upload_uses_service_role_bearer_auth(self):
         requests = []

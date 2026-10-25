@@ -2,6 +2,10 @@
 
 Aplicação privada de preparação para o concurso do Banco do Brasil.
 
+## Perfil da banca
+
+A rota **Perfil da banca** apresenta dados de `web/banca.mjs`, consolidados a partir do relatório editorial e da classificação item a item das provas de 2018, 2021 e 2023. Para Agente Comercial, a incidência usa somente os cadernos B/1 de 2021 e A/1 de 2023; o caderno de 2018 fica separado por ter outra composição. A classificação não é oficial e frequências passadas não são previsões. As regras do cargo e da seleção são identificadas como históricas e devem ser confirmadas em um novo edital.
+
 ## Deploy
 
 - O frontend é estático e fica em `web/`. Configure `web` como Root Directory no Vercel; não é necessário comando de build.
@@ -23,4 +27,4 @@ python .\supabase\upload_quarantine.py https://<project-ref>.supabase.co
 
 O segundo comando solicita `service_role` com entrada oculta. Não compartilhe essa chave. Para uso da aplicação no navegador, use somente uma chave publicável/anon.
 
-`supabase/promote_quarantine.py` libera para prática apenas questões com ao menos duas alternativas e gabarito correspondente. As demais permanecem privadas. O comando atualiza o conteúdo da aplicação, verifica as contagens e solicita `service_role` com entrada oculta. As questões liberadas por esse fluxo continuam identificadas como pendentes de revisão editorial; os gabaritos ainda precisam ser conferidos nas fontes.
+`supabase/promote_quarantine.py` libera para prática apenas questões com ao menos duas alternativas, gabarito correspondente e sem conflitos de resposta ou referências a elementos visuais/contextuais ausentes. As demais permanecem privadas. O comando sincroniza a quarentena, atualiza o conteúdo da aplicação, remove do banco questões que deixaram de ser elegíveis e verifica as contagens. Ele solicita `service_role` com entrada oculta. As questões liberadas por esse fluxo continuam identificadas como pendentes de revisão editorial; os gabaritos ainda precisam ser conferidos nas fontes.
