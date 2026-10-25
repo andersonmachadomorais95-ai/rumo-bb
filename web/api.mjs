@@ -1,3 +1,4 @@
+import { MODEL } from './engine.mjs';
 const cfg=window.APP_CONFIG||{};
 let session=JSON.parse(localStorage.getItem('bb-auth')||'null');
 const recoveryParams=new URLSearchParams(location.hash.slice(1));
@@ -29,5 +30,5 @@ export function logout(){session=null;recoveryPending=false;localStorage.removeI
 export async function getData(){return online?rpc('bb_bootstrap'):checked(await fetch('/api/bootstrap'));}
 export async function send(event){return online?rpc('bb_event',{event_input:event}):checked(await fetch('/api/event',{method:'POST',headers:{'Content-Type':'application/json','X-BB-App':'1'},body:JSON.stringify(event)}));}
 export async function documentUrl(doc,page=1){if(!online)return '/files/'+doc.caminho_storage+'#page='+page;await refresh();const j=await checked(await fetch(cfg.supabaseUrl+'/storage/v1/object/sign/bb-content/'+doc.caminho_storage,{method:'POST',headers:{apikey:cfg.anonKey,Authorization:'Bearer '+session.access_token,'Content-Type':'application/json'},body:JSON.stringify({expiresIn:3600})}));return cfg.supabaseUrl+'/storage/v1'+j.signedURL+'#page='+page;}
-export async function exportData(){return online?rpc('bb_export'):checked(await fetch('/api/export'));}
+export async function exportData(){const backup=online?await rpc('bb_export'):await checked(await fetch('/api/export'));return {...backup,model:MODEL};}
 export async function restore(data){return online?rpc('bb_restore',{backup:data}):checked(await fetch('/api/restore',{method:'POST',headers:{'Content-Type':'application/json','X-BB-App':'1'},body:JSON.stringify(data)}));}

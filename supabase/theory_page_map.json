@@ -1,0 +1,5035 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "assunto_id": "00323a7d-db01-5a0f-8eaf-f5fc4591b759",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 56,
+      "pagina_fim": 56,
+      "titulo": "10. Utilização de Canais Remotos para Vendas",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0060a745-e3ca-5fe5-8b68-117c60162687",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "00f38a5c-13ce-53c9-ae71-0d28e94c7f78",
+      "documento_id": "c0808f25-fd71-5444-99d9-1dfb4a6852fb",
+      "pagina_inicio": 38,
+      "pagina_fim": 38,
+      "titulo": "Visão de Tarefas (Taskview)/Desktops Virtuais",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0276717f-44ad-51f0-913b-c86c67c74589",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "038a8a3d-1214-5e6a-86f9-b1baf07c0ad1",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 46,
+      "pagina_fim": 46,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8967
+    },
+    {
+      "assunto_id": "04f238bd-b274-5d9b-9bbd-c58048d0d550",
+      "documento_id": "313f345f-d4e9-5c1c-b826-17d33dc81133",
+      "pagina_inicio": 26,
+      "pagina_fim": 26,
+      "titulo": "4. Juros Simples",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "054652a4-8ddd-5f09-a7c7-5af873705485",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Internet Banking vs. Mobile Banking",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "054e1d26-2c86-5815-b292-00f0dccc5fdb",
+      "documento_id": "06430400-a0b7-5c0a-bf4e-a5f3d2744bf5",
+      "pagina_inicio": 25,
+      "pagina_fim": 25,
+      "titulo": "2.6. Classificação das Redes quanto à Funcionalidade",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "05c32df0-2350-551e-8f8c-3a5f7d20881b",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Pesquisa de mercado - etapas do processo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "05e8c6cd-6ff7-5725-96c0-3413e1c6f555",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "06ca0532-bbda-5f3a-9ed9-e9200260c560",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Canais remotos - definição",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "06ca8596-b471-5dc3-af7b-8ab3a7af0ceb",
+      "documento_id": "d6678845-c2c7-5f87-8523-80606900d2c9",
+      "pagina_inicio": 47,
+      "pagina_fim": 47,
+      "titulo": "1.3. Part of Speech (Classes Gramaticais)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "079ab38e-6563-5a7f-a0fa-db8f2a4ecdc9",
+      "documento_id": "d6e7b688-2b7b-5b86-8698-5d8f59bf1e9f",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "Liquidez Diária x Rendimento Mensal",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "07d36259-6c0f-5a4a-8ea6-094e894d146e",
+      "documento_id": "25a941f5-5f7b-5555-96eb-a32d161066cf",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Conceitos Gerais",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "07d4c2f7-771f-537b-8933-153a21982c42",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "3. Valor, Satisfação e Retenção de Clientes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "09b6e617-0da3-5e34-9c72-caeb901a2319",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0a2fad18-056b-5531-9e48-4d0738fa1564",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "1.3. Produto de Matrizes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0a319437-7f4b-555f-9443-e6c222bc8845",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 12,
+      "pagina_fim": 12,
+      "titulo": "Open Finance",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0b2b8b0e-3f3a-5167-8ab9-7695fce91611",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 12,
+      "pagina_fim": 12,
+      "titulo": "1.4. Matriz Transposta",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0b4133d2-28d2-56c6-8411-b8677fd26fc7",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Aprendizagem organizacional - conceito",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0b489a56-cdb3-5df3-837c-27e05d947c6a",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0c3c5454-d108-5bf7-88f9-ea4ddd039253",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 68,
+      "pagina_fim": 68,
+      "titulo": "Resumo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0d06f395-dacb-5b2f-809a-1c16f88a1559",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Estratégia empresarial",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0e54aa27-cb4e-515c-b5a8-b17a94522ae5",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "Uso de Inteligência Artificial",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0ebfdedf-d547-5484-bb47-9ccfe32739cb",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 51,
+      "pagina_fim": 51,
+      "titulo": "Resumo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0ee8e31b-74ed-5229-8460-2c0c00dceb3e",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 13,
+      "pagina_fim": 13,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0f66b84b-178d-584d-b46e-2dc9fffbc0f9",
+      "documento_id": "93c840d2-a974-5055-aaaa-35f98461d1b9",
+      "pagina_inicio": 70,
+      "pagina_fim": 70,
+      "titulo": "Exercícios",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0fa99093-55db-565d-a0db-e0956028fd76",
+      "documento_id": "cb959efb-fce4-5e65-9854-a67e41248398",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "1. Palavras Escritas com S",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "0fd20bb9-66b7-50ad-968d-2341bf5a0dad",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 23,
+      "pagina_fim": 23,
+      "titulo": "Níveis de Leitura",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "115bed6a-5559-53cf-8b33-ee62aca48b65",
+      "documento_id": "023cb2b0-4f19-5293-bd0f-745c438aebb1",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "4.1. Taxas Nominal e Efetiva",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "128c64db-d081-5eb3-96ba-da4fd9c54801",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 33,
+      "pagina_fim": 33,
+      "titulo": "Reescrita",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "12cc7db8-ea95-56e6-af14-6d2a3e6a8b97",
+      "documento_id": "505cda3a-34ab-501a-97a4-21feb64bc252",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "B. Conceitos Básicos do MS Word 365",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "13b90e87-733b-55b5-b32a-a6f95d16ede5",
+      "documento_id": "70675eb8-03cf-546b-bbc6-f297fbb2ff8b",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "Política Monetária",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "14fe2835-c005-5747-bbac-f9b8f6ce3a87",
+      "documento_id": "43e3146b-217c-5541-9464-d34c0ee4f395",
+      "pagina_inicio": 41,
+      "pagina_fim": 41,
+      "titulo": "5.8. Spyware",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "156b7148-9cd4-5fda-8be4-a8d5282227a3",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 15,
+      "pagina_fim": 15,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "15be0271-caa2-5a96-b1ce-790960cabca9",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 12,
+      "pagina_fim": 12,
+      "titulo": "1. Lei n. 13.146/2015",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "160befe1-9b1c-5108-9dfa-4eb043765eab",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1641ca06-3c09-58f4-a577-0b566ac39849",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 42,
+      "pagina_fim": 42,
+      "titulo": "7. Gestão da Qualidade em Serviços",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1654d0cb-4d73-580b-a8cf-795c06be242a",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "167b08e6-71ba-5ef4-9d3f-e5275a8df09c",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 50,
+      "pagina_fim": 50,
+      "titulo": "8.1. Métodos para Alcançar Clientes Potenciais",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "17856483-05a4-5d69-a33f-03d940bfa443",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 17,
+      "pagina_fim": 17,
+      "titulo": "Funções da Linguagem",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "17a8a54f-804a-5169-8fb5-baf1296a0d42",
+      "documento_id": "e5c6a643-98f7-5363-93cb-2903bef6e625",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "Arranjos de Pagamentos que Não Integram o SPB",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "17b9d0c4-043d-5d54-9ff6-17692c9ddf64",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "Definição de Texto e de Interpretação de Textos",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1854d9ee-7ce5-55f8-a71f-54a545fa4990",
+      "documento_id": "270fb7c0-f4dd-5140-a3e0-4a3a6bf36933",
+      "pagina_inicio": 29,
+      "pagina_fim": 29,
+      "titulo": "6.3. Sociedades de Crédito, Financiamento e Investimento (Financeiras)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1880618a-576d-5127-9239-8d3865bbdf9b",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 26,
+      "pagina_fim": 26,
+      "titulo": "Resumo",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "18909c2d-2552-5850-b9ff-fe8b68e08f0d",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "189be2ee-6e75-5e41-b753-52c7f61b8ef9",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 26,
+      "pagina_fim": 26,
+      "titulo": "2.1. Fluxo de Caixa",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "194b0359-5e28-54b1-b82d-d892f5cd37fe",
+      "documento_id": "01596be4-b8c2-5957-8d45-e6300416db17",
+      "pagina_inicio": 28,
+      "pagina_fim": 28,
+      "titulo": "2.3. Números Inteiros",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "19e5f8e8-0a42-5945-9a1a-85475679cac4",
+      "documento_id": "8a0803a1-1130-56f0-9fc6-e9ecf9caa03c",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "Tipos de Pix",
+      "metodo": "pdf_sumario_titulo_exato",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1bb65947-5632-5903-bf44-242ee8698af2",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 39,
+      "pagina_fim": 39,
+      "titulo": "3.1. Classificação de Sistemas Lineares",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1bc3c13a-68d8-5a4f-99d6-dd86eed72b54",
+      "documento_id": "5990d58e-7311-5fdf-a23e-737a08ca4173",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "A Tipologia Descritiva",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1c68d26e-17c6-5ece-9fba-e96f84cb4b9e",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 32,
+      "pagina_fim": 32,
+      "titulo": "Reescrita",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1c698c6a-6fbb-5712-8564-0ea6dc1cdb0c",
+      "documento_id": "e4f3ad99-0e79-5dac-a25b-82a725324cb3",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "A Tríade do Planejamento Orçamentário: PPA, LDO e LOA",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1dab6756-da08-56c0-b6f0-ce714f0dbcad",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "Pressupostos e Subentendidos",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1db3a26c-f1ea-54e7-a478-35536cfcf1a8",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "Vozes Discursivas (Intertextualidade)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1ebc657a-8bab-5ea9-96a9-13446b42fc8c",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "2.2. Comportamentos do Consumidor",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1ee2256c-6e4c-5e13-82e5-2144a2884d37",
+      "documento_id": "3ba765df-08f2-5f3c-b137-cda57b85a22d",
+      "pagina_inicio": 17,
+      "pagina_fim": 17,
+      "titulo": "Impactos das Taxas de Câmbio sobre as Exportações e Importações",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1f39a34b-c8b5-5d83-b2d6-8ba030254509",
+      "documento_id": "4aca52a5-922c-5a69-8aa6-0578c8c988a6",
+      "pagina_inicio": 25,
+      "pagina_fim": 25,
+      "titulo": "6. Estrutura de Diretórios do Linux",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "1f8ccb75-8326-5e61-b615-80ecaf584289",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Pré-abordagem - definição",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "20567c2c-f032-5f2c-aa26-f08047e2f43e",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Capitais equivalentes - definição",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "20c06631-6e75-5249-a068-0fdf4d3b1553",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "1.4. Matriz Transposta",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "21b3f05d-4479-5a44-9980-851af1536a0d",
+      "documento_id": "aa60e5d8-9a16-505c-aa8b-3ccc6c676094",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Garantias do Sistema Financeiro Nacional – Parte I",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "21cbbab9-adc5-55fc-920c-765375cc821b",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 57,
+      "pagina_fim": 57,
+      "titulo": "11. Noções de Marketing Digital: Geração de Leads; Técnica de Copywriting; Gatilhos Mentais; Inbound Marketing",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "2302fbbc-bf9d-5eb3-b657-7b4460ea43c9",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 67,
+      "pagina_fim": 67,
+      "titulo": "Resumo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "23985b38-503c-5532-a85b-a73e3941ec82",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 68,
+      "pagina_fim": 68,
+      "titulo": "Resumo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "23b233be-c52b-5814-a9f4-8a4f0625e3a9",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "23d945cf-bd0b-5ebd-82c2-f075708f3aff",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 45,
+      "pagina_fim": 45,
+      "titulo": "7.2. Os 5 Gaps da Qualidade",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "23e5e247-d0fa-5da7-b1ff-59a1a6bba9e0",
+      "documento_id": "01596be4-b8c2-5957-8d45-e6300416db17",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "25074804-4e13-50e6-b624-67071e0ce2f1",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 46,
+      "pagina_fim": 46,
+      "titulo": "7.3. Modelo SERVQUAL",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "25acd6e7-aee8-5b11-97d7-9f1cedf72210",
+      "documento_id": "93c840d2-a974-5055-aaaa-35f98461d1b9",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Mercados financeiros (monetário, crédito, capitais e câmbio)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "26a7f709-4633-5275-904a-98d1ff778443",
+      "documento_id": "8a1f0cf8-8390-5bab-95ab-661d5b22089f",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "Normativo SARB 009/2013",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "27540508-abb8-52db-afb8-9a0c6f817d37",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 57,
+      "pagina_fim": 57,
+      "titulo": "11. Noções de Marketing Digital: Geração de Leads; Técnica de Copywriting; Gatilhos Mentais; Inbound Marketing",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "28128207-25ff-50a3-a07f-8bf158ab3e95",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 45,
+      "pagina_fim": 45,
+      "titulo": "7.2. Os 5 Gaps da Qualidade",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "2a8b9d3b-bea7-5e66-bd3a-88b0ef965c31",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 27,
+      "pagina_fim": 27,
+      "titulo": "Níveis de Linguagem",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "2b1381bd-e741-5a4c-bcc3-4472a44aa048",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "3. Valor, Satisfação e Retenção de Clientes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "2d9be3b9-d674-5fda-be79-b9798aaf8ef6",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "O Cenário Pré-Digital",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "2f0e012d-d9a1-51b8-9505-9b311a9aa0db",
+      "documento_id": "07416a40-5dd3-5fa0-8066-528de1dc6e0f",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Normativos SARB 3 e 4",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "2f627819-f65a-529e-9468-7efece3d6fa4",
+      "documento_id": "c975a375-0a4a-53b0-a182-4828b130a17f",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "2. Mecanismos de Proteção Digital",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "300e0af7-8bb9-5eb0-acc8-b1fd632a10f7",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "1.1. Escala",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "306b31a3-4869-53bc-8fcc-62e9e33ebcdb",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 51,
+      "pagina_fim": 51,
+      "titulo": "Resumo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "30a19730-49c1-5b5e-be19-b45f5948609c",
+      "documento_id": "93c840d2-a974-5055-aaaa-35f98461d1b9",
+      "pagina_inicio": 25,
+      "pagina_fim": 25,
+      "titulo": "3. Mercado de Crédito",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "310befaa-dd7c-55fd-9af0-e76325981e25",
+      "documento_id": "d6678845-c2c7-5f87-8523-80606900d2c9",
+      "pagina_inicio": 78,
+      "pagina_fim": 78,
+      "titulo": "Resumo",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "31387394-444a-5e47-be92-1c027d4f84b3",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "2.1. Regra de Três Simples",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "316815cf-5b53-5261-a0c2-705061b491d1",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Razão e Proporção",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "317b84da-5fe2-52fe-b852-e19f1477d24c",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "32027fb5-8ab8-59b4-a545-c33578c5e6c2",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 38,
+      "pagina_fim": 38,
+      "titulo": "5. Aprendizagem Organizacional",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "329429b6-995e-56d8-a159-a8cc03f33ad8",
+      "documento_id": "023cb2b0-4f19-5293-bd0f-745c438aebb1",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "4.1. Taxas Nominal e Efetiva",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "33dcb53e-40db-5aff-865a-e28fb0fb2fde",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "33e439d0-60a9-5ac6-85f0-0341a2af97ad",
+      "documento_id": "d6e7b688-2b7b-5b86-8698-5d8f59bf1e9f",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "Capitalização",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "34ef55cb-9984-5384-a51f-0454af20b402",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 33,
+      "pagina_fim": 33,
+      "titulo": "Breve Introdução aos Estudos Linguísticos",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "35456c9c-dda0-5954-9d21-cfa3a1f02903",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 60,
+      "pagina_fim": 60,
+      "titulo": "11. Noções de Marketing Digital: Geração de Leads; Técnica de Copywriting; Gatilhos Mentais; Inbound Marketing",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "35d61435-92bc-598f-908c-5e307b68326c",
+      "documento_id": "a4df1678-cacd-519a-8cf9-b61ccb0837a5",
+      "pagina_inicio": 14,
+      "pagina_fim": 14,
+      "titulo": "Conselho Monetário Nacional (CMN)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "36d2ea54-44d2-573e-91c9-67465fb48f42",
+      "documento_id": "270fb7c0-f4dd-5140-a3e0-4a3a6bf36933",
+      "pagina_inicio": 32,
+      "pagina_fim": 32,
+      "titulo": "6.9. Bancos de Câmbio",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "36d8dc5f-bbca-51bc-8b1f-14457f45d54f",
+      "documento_id": "7ef4ad0f-f340-5df6-bafc-93f0f17f82b6",
+      "pagina_inicio": 13,
+      "pagina_fim": 13,
+      "titulo": "Sigilo Bancário",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3795ebb6-735e-5fa3-b053-23955accaa28",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 13,
+      "pagina_fim": 13,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "389c494a-9254-5727-9fc1-0920aa01c7bc",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "395cda65-414a-58c3-b108-34a32fb4b45b",
+      "documento_id": "bfc7567a-2a05-5ad4-a480-74c488380143",
+      "pagina_inicio": 17,
+      "pagina_fim": 17,
+      "titulo": "Princípios que Regem o Código de Defesa do Consumidor",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3968ee7c-c78d-516a-9ca1-e0e41a9f6c8f",
+      "documento_id": "023cb2b0-4f19-5293-bd0f-745c438aebb1",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "39777d20-a11c-52e6-a712-0bc97872411a",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 53,
+      "pagina_fim": 53,
+      "titulo": "8.3. Modelo das Cinco Etapas do Processo de Compra do Consumidor",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3a1f37b4-3418-596f-9c78-d63637f5bab1",
+      "documento_id": "270fb7c0-f4dd-5140-a3e0-4a3a6bf36933",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Cartões de crédito",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3a7f5fe9-c74b-5de8-82fb-a8e41fe8f8b6",
+      "documento_id": "26f32c7b-9310-5a8f-9686-fd2607e0cdf4",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "Renda Variável",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3aeb0034-2419-54fc-b292-55607a34bf60",
+      "documento_id": "7ef4ad0f-f340-5df6-bafc-93f0f17f82b6",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3b464ce0-bc01-57a0-be82-d86cc8e18b06",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 57,
+      "pagina_fim": 57,
+      "titulo": "11. Noções de Marketing Digital: Geração de Leads; Técnica de Copywriting; Gatilhos Mentais; Inbound Marketing",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3b9d035c-b173-500c-bdb9-c7f128189587",
+      "documento_id": "cb77e7f6-e98d-5fb3-bc05-32e60ba37791",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Correspondentes bancarios",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3c5bc523-6c99-587e-a7a3-938c4c693f32",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 33,
+      "pagina_fim": 33,
+      "titulo": "4.5. Mindset Clientocêntrico",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3c93f306-2f14-54e6-979a-a12aa77642e3",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 27,
+      "pagina_fim": 27,
+      "titulo": "2.1. Fluxo de Caixa",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3cbb4ced-ac2f-5f4b-958f-c59b9a7b06f1",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "2.1. Regra de Três Simples",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3ccd194c-fbbb-52a9-a4fc-3d0a0d0c2baa",
+      "documento_id": "fbc1fb1e-4071-5415-a19b-c3c2aee6b8ce",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Etica aplicada e codigo do BB",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3f55f6b7-99bf-5807-9eac-fd5fdaa33bd2",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 33,
+      "pagina_fim": 33,
+      "titulo": "Reescrita",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "3f862a2a-8d92-5190-b5b2-22b2fdcec701",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Razão e Proporção",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "405cc077-52e8-55af-a583-86a8a28c6ca8",
+      "documento_id": "a4df1678-cacd-519a-8cf9-b61ccb0837a5",
+      "pagina_inicio": 45,
+      "pagina_fim": 45,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4072b08a-7eaf-57ac-8443-de9e2dd1818c",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "NPS - cálculo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "40a14070-2cb1-55a7-8603-538b4920d52a",
+      "documento_id": "57f821b1-580d-5ee4-b7c3-dfeaa4c34ff2",
+      "pagina_inicio": 18,
+      "pagina_fim": 18,
+      "titulo": "Big Tech",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "412e2a05-ca1c-5b63-a8b5-2c161b6e3173",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 58,
+      "pagina_fim": 58,
+      "titulo": "3.6. Direito ao Trabalho",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "41ca27b6-bda3-5f0a-b914-899235b191e5",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "2.3. Matriz 3x3",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "426d0c31-025f-5d69-aca2-f1c320749334",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.837
+    },
+    {
+      "assunto_id": "42893b3a-40fc-5192-9dba-7f3e0356ddf3",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 27,
+      "pagina_fim": 27,
+      "titulo": "Níveis de Linguagem",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "42e6c96a-10b5-5e9e-bd99-5c66eae59cb1",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "43327e3c-8c79-5278-b1ed-c392d6038654",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 71,
+      "pagina_fim": 71,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4393b9a2-23b9-5ad4-ba88-f766f2924313",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 33,
+      "pagina_fim": 33,
+      "titulo": "3.1. Direito à Vida",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "43a1a679-f286-5d0a-9556-fb80802c7224",
+      "documento_id": "426ed85e-163d-5568-868c-bbf0cbf64168",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Autorregulação Bancária",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "43a8b242-0397-546f-873c-f8d7749dfd80",
+      "documento_id": "d079d1c1-5e4d-58d4-a15e-1a369620a9d0",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "1. 4. Principais Erros do Excel",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "44607457-29cb-53bc-9b8d-0e81f2392486",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 15,
+      "pagina_fim": 15,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8306
+    },
+    {
+      "assunto_id": "44e90f4a-ca84-5180-af85-e30d059907fa",
+      "documento_id": "313f345f-d4e9-5c1c-b826-17d33dc81133",
+      "pagina_inicio": 18,
+      "pagina_fim": 18,
+      "titulo": "3. Regra de Três Simples",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.9615
+    },
+    {
+      "assunto_id": "455ac7ad-1216-5021-ac39-af192d0ada9c",
+      "documento_id": "8a0803a1-1130-56f0-9fc6-e9ecf9caa03c",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Fundamentos",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "45b6ca21-56dc-5d3e-9dd3-23b468096fb7",
+      "documento_id": "d6678845-c2c7-5f87-8523-80606900d2c9",
+      "pagina_inicio": 27,
+      "pagina_fim": 27,
+      "titulo": "1.3. Part of Speech (Classes Gramaticais)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "45d7ca47-3ec9-5305-9bee-4f0cfe5e00db",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "45e1e2f0-2c32-59d3-9ea5-2b61363b26da",
+      "documento_id": "8787333a-8778-5ab9-b672-cedf751749f8",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "2.1. Classificação dos Softwares quanto à Funcionalidade",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4628370b-7bde-5253-91dd-44b4a3d37ebe",
+      "documento_id": "c0808f25-fd71-5444-99d9-1dfb4a6852fb",
+      "pagina_inicio": 11,
+      "pagina_fim": 11,
+      "titulo": "Benefícios do PowerShell",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4653fa2c-daf5-5e32-a837-2d2373a93626",
+      "documento_id": "26f32c7b-9310-5a8f-9686-fd2607e0cdf4",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "Renda Fixa",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "46de8fc3-c2d2-50c6-9930-df49c684b671",
+      "documento_id": "a4df1678-cacd-519a-8cf9-b61ccb0837a5",
+      "pagina_inicio": 27,
+      "pagina_fim": 27,
+      "titulo": "Instituições Financeiras",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "46eb2181-4606-55d9-b919-cf3027f76d7f",
+      "documento_id": "4aca52a5-922c-5a69-8aa6-0578c8c988a6",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Conceitos Básicos do Linux",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "478eda30-c61f-53ae-86af-5606fd3b0f9e",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 32,
+      "pagina_fim": 32,
+      "titulo": "4.4. Net Promoter Score (NPS)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "47c810cb-b45b-5b00-bf89-1185a85577f7",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 31,
+      "pagina_fim": 31,
+      "titulo": "4.3. Churn Rate (Taxa de Rotatividade de Clientes)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "48162b50-17da-5e1e-bf1c-68d32c424d05",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 27,
+      "pagina_fim": 27,
+      "titulo": "4. Gestão da Experiência do Cliente",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "490f7abd-8c65-518f-9cbf-192bdb349df6",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1.1. Taxas Nominal e Efetiva",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4a48024f-79e9-5e74-a5aa-139964da815a",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4a7835a9-73de-5053-8b03-e5c59c75c32a",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 26,
+      "pagina_fim": 26,
+      "titulo": "Resumo",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4a9ede56-81c9-585e-8ddd-1de001b20d9c",
+      "documento_id": "ed21a3bd-0369-5d14-aa26-a8e78d621234",
+      "pagina_inicio": 94,
+      "pagina_fim": 94,
+      "titulo": "Exercícios",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4ae773c9-1290-5895-bcf8-152319685c13",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 26,
+      "pagina_fim": 26,
+      "titulo": "2.1. Fluxo de Caixa",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4af03de6-f00d-529b-aa2d-7169952a6460",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "2.4. Teorema de Binet",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.898
+    },
+    {
+      "assunto_id": "4b38fa56-24ea-5345-a083-49d9aed25c3d",
+      "documento_id": "e4f3ad99-0e79-5dac-a25b-82a725324cb3",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "A Tríade do Planejamento Orçamentário: PPA, LDO e LOA",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4b8048ae-2ea2-5a20-ab12-4f94d7d66ab3",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Direitos da Pessoa com Deficiência",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4cfa8cf7-1a8e-5e03-95d7-911192bc1d98",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "4fecf9d3-9c93-5889-a725-5994126b3f82",
+      "documento_id": "426ed85e-163d-5568-868c-bbf0cbf64168",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Autorregulação Bancária",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "50224ec7-a816-5d6e-a984-abdf13ca0d34",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "514d248c-e1db-51f4-9310-02f07db2610f",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "516c1082-0227-57fb-a81e-55f9b7545451",
+      "documento_id": "aa60e5d8-9a16-505c-aa8b-3ccc6c676094",
+      "pagina_inicio": 29,
+      "pagina_fim": 29,
+      "titulo": "Fiança Bancária",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5321f71a-e04b-510f-ab8a-975e470dc59c",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 48,
+      "pagina_fim": 48,
+      "titulo": "8. Técnicas de Vendas: da Pré-Abordagem ao Pós-Vendas",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "53fcd9de-e93c-55d1-b114-3fa8d23a4f1f",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 46,
+      "pagina_fim": 46,
+      "titulo": "7.3. Modelo SERVQUAL",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "547be63d-c489-501a-ae04-4908fa7455bb",
+      "documento_id": "517d64cc-5e8f-5165-8a59-d502769a7cb2",
+      "pagina_inicio": 32,
+      "pagina_fim": 32,
+      "titulo": "Efeitos da Condenação",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5484408d-9a85-517f-b282-79534d000097",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 95,
+      "pagina_fim": 95,
+      "titulo": "16. Disposições Finais e Transitórias",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "548e3ddf-95d9-50c3-b226-33c5ea01da49",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 27,
+      "pagina_fim": 27,
+      "titulo": "2.1. Fluxo de Caixa",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "554aad37-7f62-5632-83be-eae209a42579",
+      "documento_id": "313f345f-d4e9-5c1c-b826-17d33dc81133",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "2. Porcentagem",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5585e40a-1e2e-55ff-b729-31a20314b169",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "3. Valor, Satisfação e Retenção de Clientes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "56577068-382a-506e-9c8f-04a13723ba75",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 15,
+      "pagina_fim": 15,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "574a331f-1430-59c8-827e-7fe0bb737bc0",
+      "documento_id": "70675eb8-03cf-546b-bbc6-f297fbb2ff8b",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "Instrumentos de Política Monetária",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "57d98461-b005-5d2c-b196-2e999f6aba49",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "3. Valor, Satisfação e Retenção de Clientes",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "58513323-555e-50a8-8eb6-2585e3b52e62",
+      "documento_id": "cb959efb-fce4-5e65-9854-a67e41248398",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "9.1. Regras ainda Vigentes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "58d0224a-73fa-5f6b-b389-7d33ee9f369f",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 17,
+      "pagina_fim": 17,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "597eaf14-d683-5363-8798-0c30400b49bb",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1.1. Elemento",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "59b50339-4be3-5c4c-a4af-0b628cfc050e",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Churn rate - definição",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "59ccf173-b188-56b9-9143-12c97e41c7a6",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "Vozes Discursivas (Intertextualidade)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5a193766-faeb-5912-9b6e-b27b35e5773d",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 38,
+      "pagina_fim": 38,
+      "titulo": "Modal Verbs (Verbos Modais)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5a42e26e-dab0-5582-8ddc-260f8aaa14e6",
+      "documento_id": "7f415850-9ea1-545a-a55f-17e9ea16e9a6",
+      "pagina_inicio": 26,
+      "pagina_fim": 26,
+      "titulo": "Classes Gramaticais",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8365
+    },
+    {
+      "assunto_id": "5b1944b0-2964-5600-9ae0-deae985a6029",
+      "documento_id": "06430400-a0b7-5c0a-bf4e-a5f3d2744bf5",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Internet - Correio Eletrônico",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5bbdcfa1-cf15-516a-9429-6fddb5adde41",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 39,
+      "pagina_fim": 39,
+      "titulo": "3.3. Soma e Subtração de Porcentagem",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5c2f8965-77a5-5954-91dd-9c1d4fe22dfc",
+      "documento_id": "c0808f25-fd71-5444-99d9-1dfb4a6852fb",
+      "pagina_inicio": 203,
+      "pagina_fim": 203,
+      "titulo": "Microsoft Edge",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5c43de86-31ac-5f28-b78c-00bf2c93d76b",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 45,
+      "pagina_fim": 45,
+      "titulo": "7.2. Os 5 Gaps da Qualidade",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5d6aa972-fd5f-5d9d-a504-ee2fc2f55fa7",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "3. Valor, Satisfação e Retenção de Clientes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5e785be0-6ec5-5bf0-8452-b09dccf363df",
+      "documento_id": "85a2fc24-cd9e-504b-bad4-2b781447d372",
+      "pagina_inicio": 11,
+      "pagina_fim": 11,
+      "titulo": "Garantias Imobiliárias e Crédito Rural",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5e9480e1-7995-5ab2-a81a-bdf16611841a",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Open Banking vs. Open Finance",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5ef2d70d-561d-5f32-aabd-9ab5b8a00932",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "1.3. Produto de Matrizes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "5f4f9948-8313-5538-84d5-71775ef55f11",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 33,
+      "pagina_fim": 33,
+      "titulo": "Reescrita",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "60521534-660a-5ec4-b5c3-aa2e162bffe0",
+      "documento_id": "01596be4-b8c2-5957-8d45-e6300416db17",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "1.3. Multiplicação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "605d219c-9e9c-5f16-ad21-b5a4e848ab19",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "60717d9c-2d12-54ce-b0a1-4e8093073c26",
+      "documento_id": "c0808f25-fd71-5444-99d9-1dfb4a6852fb",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "612b6628-a958-59d3-bf4a-74a1056951d2",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 15,
+      "pagina_fim": 15,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "62754f14-fae9-555d-8fdd-de58db1a843b",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "62a24c4a-1b5a-5fa6-9aec-4bc64f149ce3",
+      "documento_id": "270fb7c0-f4dd-5140-a3e0-4a3a6bf36933",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Caixa Econômica Federal",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6349c0ef-0f1a-59ab-a634-9f9c19fcf755",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "1. Lei n. 13.146/2015",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "64d7bd63-44bb-50d2-89fb-5ec0b43cd034",
+      "documento_id": "93c840d2-a974-5055-aaaa-35f98461d1b9",
+      "pagina_inicio": 27,
+      "pagina_fim": 27,
+      "titulo": "3. Mercado de Crédito",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "68202207-72e7-5212-bccd-bae742e80819",
+      "documento_id": "e4f3ad99-0e79-5dac-a25b-82a725324cb3",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Orcamento publico e titulos",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "69efe4fe-cdb6-50be-876f-ebf90c8ae5de",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "2.2. Comportamentos do Consumidor",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6a325d2e-99f7-52e2-8f0b-18381dbb8c24",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 42,
+      "pagina_fim": 42,
+      "titulo": "7. Gestão da Qualidade em Serviços",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6a9a1046-1575-5517-b958-26157854f777",
+      "documento_id": "d6e7b688-2b7b-5b86-8698-5d8f59bf1e9f",
+      "pagina_inicio": 18,
+      "pagina_fim": 18,
+      "titulo": "Poupança",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6c32b437-7dc9-5d9e-a9d1-a747f05765a4",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6c884b6b-1d2c-592e-8a86-0bf7bfea43b1",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Qualidade em serviços - definição",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6c933600-1f1c-5164-ac44-76c563e214a0",
+      "documento_id": "07416a40-5dd3-5fa0-8066-528de1dc6e0f",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Normativos SARB 7 a 13",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6d068704-96b5-5fd2-b851-6bf2db119557",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "O Cenário Pré-Digital",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6d0b098f-0537-5264-bdc3-860a30f1fc3d",
+      "documento_id": "3ba765df-08f2-5f3c-b137-cda57b85a22d",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "Câmbio Flutuante sem Intervenção",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6d3b821d-2ba9-5fdc-b1eb-02a9b60fee2b",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6d667562-62ca-5215-a40d-3599dd39eda4",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "Sistema de Bancos-Sombra (Shadow Banking)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6dee255c-e8d6-5ded-b7da-321b29012b53",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Banco Digital vs. Banco Digitalizado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6e8ceecb-3e74-5cf0-aebb-264dc0a3b332",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 11,
+      "pagina_fim": 11,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6e99cbe4-a6e5-5446-9d1a-0b1d2ceb5452",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Estrategia empresarial e vendas",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "6f06bb2c-fb1e-5098-85d2-3d54fbdd9630",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_sumario_titulo_correspondente",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7023c774-5393-5e47-908a-de1856ddfa1e",
+      "documento_id": "26f32c7b-9310-5a8f-9686-fd2607e0cdf4",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "Renda Fixa",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7040d82d-0266-55d9-9d8a-23fdd381dab9",
+      "documento_id": "c0808f25-fd71-5444-99d9-1dfb4a6852fb",
+      "pagina_inicio": 229,
+      "pagina_fim": 229,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "70b8cbaa-8462-5b15-b3aa-226a1fe44e84",
+      "documento_id": "023cb2b0-4f19-5293-bd0f-745c438aebb1",
+      "pagina_inicio": 36,
+      "pagina_fim": 36,
+      "titulo": "4.3. Taxas Real Aparente e Inflacionária",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "70e56fcd-ec68-5e0e-882c-07b813901480",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "Base Form (Forma Básica, ou “Base”)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "70e8dd66-771b-512a-8112-4b9fe635af69",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "2.2. Comportamentos do Consumidor",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.822
+    },
+    {
+      "assunto_id": "7123ac35-2f22-5c70-a2aa-fff71b4a1df6",
+      "documento_id": "d4a29849-ece4-5de9-bb00-8dd78011f098",
+      "pagina_inicio": 23,
+      "pagina_fim": 23,
+      "titulo": "3. Sistema Legal de Medidas",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "71722482-c2a6-5550-be43-23d79c085832",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "1.3. Produto de Matrizes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "719899bd-3e1c-5a45-a552-c7ded358e3d2",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "1.4. Matriz Transposta",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "71f43036-9302-5571-bb4e-2935643797f2",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 36,
+      "pagina_fim": 36,
+      "titulo": "4.6. Momento de Verdade",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "720658c6-4e6e-528a-8686-0edef21d4085",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 42,
+      "pagina_fim": 42,
+      "titulo": "Phrasal Verbs (Verbos Frasais)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "72830cd3-db29-5588-9717-66df44f8e527",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8058
+    },
+    {
+      "assunto_id": "72bc5ae8-3a88-53ad-bce0-c88cfba37483",
+      "documento_id": "d6e7b688-2b7b-5b86-8698-5d8f59bf1e9f",
+      "pagina_inicio": 58,
+      "pagina_fim": 58,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7305b5d0-0e64-5797-b8cb-74ea3bb690e0",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.1. Matriz Triangular",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7354fbbb-441f-50e5-84fe-9638318325dc",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 42,
+      "pagina_fim": 42,
+      "titulo": "Phrasal Verbs (Verbos Frasais)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "742be179-3ffd-5395-8b64-a291fcf987dd",
+      "documento_id": "4aca52a5-922c-5a69-8aa6-0578c8c988a6",
+      "pagina_inicio": 11,
+      "pagina_fim": 11,
+      "titulo": "3. Distribuições do Linux (Distros)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "74680a7d-069d-5e48-9271-7369709adf4a",
+      "documento_id": "8b0a00ad-bc36-5207-b1c7-168a5ac0091f",
+      "pagina_inicio": 28,
+      "pagina_fim": 28,
+      "titulo": "4. Conceitos Básicos sobre Funções",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "74dacdcb-13ea-54ae-9a5a-f0e66c7f6621",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "750c7455-c3a8-58be-a781-3223244266a1",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 37,
+      "pagina_fim": 37,
+      "titulo": "3. Sistemas Lineares",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "75963462-e1c4-56f6-942c-efd1880ea0aa",
+      "documento_id": "26f32c7b-9310-5a8f-9686-fd2607e0cdf4",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "Participantes do Mercado de Capitais",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "75f48dea-0574-5f7f-a068-10a1c58909cf",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "766509b7-9374-57b8-8755-0e909d135018",
+      "documento_id": "dd50c132-166d-5bb5-aecb-cc70efd17c0c",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "2. Dos Princípios",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "76d1ecf5-5dd0-5d74-a7f6-f6480424c456",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "76d2eb63-75d9-5f3f-90e1-6a54b4f6bbca",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 34,
+      "pagina_fim": 34,
+      "titulo": "3.2. Direito à Habilitação e à Reabilitação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8725
+    },
+    {
+      "assunto_id": "76e13363-8f7f-54a6-ae27-5320913713e7",
+      "documento_id": "cb959efb-fce4-5e65-9854-a67e41248398",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "76e466b6-b0a3-57ce-9f4a-47f0453b6ae9",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "Definição de Texto e de Interpretação de Textos",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7845519d-b5e0-576d-9cfd-071b2f42ede9",
+      "documento_id": "023cb2b0-4f19-5293-bd0f-745c438aebb1",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "4.1. Taxas Nominal e Efetiva",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "788553bb-4dad-51a1-b002-d9c2e453d6e6",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "2.2. Comportamentos do Consumidor",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "78cb1f78-fd17-5c01-94c8-be42f0312cb4",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 23,
+      "pagina_fim": 23,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "78d4f2ff-df3f-5a37-bfaf-40dc7cc33466",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 46,
+      "pagina_fim": 46,
+      "titulo": "7.3. Modelo SERVQUAL",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "78e350f5-fb61-5cb1-8daa-862f589bfbd4",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 15,
+      "pagina_fim": 15,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "794212d3-a20c-53b7-aa8e-b5856c9c7541",
+      "documento_id": "3ba765df-08f2-5f3c-b137-cda57b85a22d",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Mercado de Câmbio",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7952bcd3-277d-5ad1-83e7-e80993a4af3c",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8223
+    },
+    {
+      "assunto_id": "7979f7e8-19ab-5e6e-a006-7d4aede854c5",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "2.2. Comportamentos do Consumidor",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "798f10aa-0870-5510-8420-249a03a2caaf",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Processo de compra - 5 etapas",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7a2b1192-01f4-59bf-af7a-6a044c7768d2",
+      "documento_id": "d6e7b688-2b7b-5b86-8698-5d8f59bf1e9f",
+      "pagina_inicio": 25,
+      "pagina_fim": 25,
+      "titulo": "Previdência Complementar",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7b7dbcd7-07ac-5861-935f-81556a584bbe",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 104,
+      "pagina_fim": 104,
+      "titulo": "Gabarito Comentado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7caf7aa2-e40e-5fe9-be5f-09bc0163e7c5",
+      "documento_id": "023cb2b0-4f19-5293-bd0f-745c438aebb1",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "3. Fórmula do Juros Compostos",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7cce88b7-c7bf-57b7-b128-bdaf9bcc92bc",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "1.4. Matriz Transposta",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7d5cc267-68ad-5b6a-9a59-47f4e80d610d",
+      "documento_id": "4aca52a5-922c-5a69-8aa6-0578c8c988a6",
+      "pagina_inicio": 13,
+      "pagina_fim": 13,
+      "titulo": "4. Interfaces Gráficas do Linux",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7e12362f-f9da-5e32-a3d3-a0882fee0765",
+      "documento_id": "70675eb8-03cf-546b-bbc6-f297fbb2ff8b",
+      "pagina_inicio": 15,
+      "pagina_fim": 15,
+      "titulo": "O Debate sobre os Depósitos Remunerados dos Bancos Comerciais no Banco Central do Brasil",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7e71037e-6d36-5205-9c46-8530c2ce356f",
+      "documento_id": "d4cda4f2-4de1-5822-afbc-0a0c355eafb0",
+      "pagina_inicio": 14,
+      "pagina_fim": 14,
+      "titulo": "1.2. Progressão Geométrica",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7f5271d0-f893-57eb-9551-2daaf4f9c455",
+      "documento_id": "c7b6f2c2-6c2e-5058-bbc8-ac2b64aa7b39",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Introdução",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "7fb1bbf8-495e-50e6-90d7-a6cd550095d2",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "807fab6c-46d8-5737-9ad5-ec0cfdc3e9d0",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "80f0bd37-1bca-563d-97c4-5f8d2037bf8c",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 69,
+      "pagina_fim": 69,
+      "titulo": "Resumo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "810416e8-4257-5427-b7d9-595db806f24b",
+      "documento_id": "70675eb8-03cf-546b-bbc6-f297fbb2ff8b",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "Política Monetária",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "810600a7-e403-5cda-b625-3758e55afae1",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "1.2. Taxas Equivalentes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8275da5a-763c-5073-86d4-af8e95e2ab82",
+      "documento_id": "3dc35331-27d3-50e9-80ba-bd53340fea5d",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "1.3. Relação entre Proposições e Diagramas Lógicos",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "831e3b1b-c20d-56ea-9671-803bacd5c78c",
+      "documento_id": "a4df1678-cacd-519a-8cf9-b61ccb0837a5",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "Estrutura do Sistema Financeiro Nacional",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "83492348-2145-5cae-9228-93fcecb97c8b",
+      "documento_id": "d4cda4f2-4de1-5822-afbc-0a0c355eafb0",
+      "pagina_inicio": 23,
+      "pagina_fim": 23,
+      "titulo": "1.2. Progressão Geométrica",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "835494d1-b1b4-5c54-9cdf-a3c67f8c0d23",
+      "documento_id": "7ef4ad0f-f340-5df6-bafc-93f0f17f82b6",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Sigilo Bancário",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "83738d14-e359-5875-882d-c581d287f605",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "2.2. Comportamentos do Consumidor",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "843438b0-dd28-5e16-81a1-55c8f3f2d092",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1.1. Elemento",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "855f137a-0b92-5c08-a74d-7ca396254f37",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "85f6e856-2ef2-5ab4-a9fe-632f2f0e056f",
+      "documento_id": "26f32c7b-9310-5a8f-9686-fd2607e0cdf4",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "Participantes do Mercado de Capitais",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "86098575-e038-536f-b045-c70a67c5a7a4",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "O Cenário Pré-Digital",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "86279513-a4b9-5ebc-b702-eaa2691ade42",
+      "documento_id": "023cb2b0-4f19-5293-bd0f-745c438aebb1",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "4.1. Taxas Nominal e Efetiva",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "867649d9-0290-5088-9440-a5090dc0ccb0",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 42,
+      "pagina_fim": 42,
+      "titulo": "Phrasal Verbs (Verbos Frasais)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "86ff29f8-abcf-5020-a85f-792085aeabdc",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "87c10ec7-28df-5e06-8add-985c7940617e",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "2.5. Produto por Escalar",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "88305a36-91bc-5ad3-9aab-c3ec55db892d",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 23,
+      "pagina_fim": 23,
+      "titulo": "2.6. Regra de Jacobi",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8860bf4b-616e-5aed-bd02-2866d87477b8",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 54,
+      "pagina_fim": 54,
+      "titulo": "8.3. Modelo das Cinco Etapas do Processo de Compra do Consumidor",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "88619351-615a-548d-8280-211fdb4671e9",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "1. Lei n. 13.146/2015",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "88821d00-830a-5077-ad0a-6aaea956857f",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "1.3. Produto de Matrizes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "88e93055-dcb0-5614-99e9-17b7d5d7e2f9",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "2.2. Comportamentos do Consumidor",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "89cc9ced-35be-5d6b-84e6-1c139f41195e",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 39,
+      "pagina_fim": 39,
+      "titulo": "3.1. Classificação de Sistemas Lineares",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "89eda25a-fb99-582e-a235-cb18f2f9a915",
+      "documento_id": "25a941f5-5f7b-5555-96eb-a32d161066cf",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "1. Conceitos Gerais",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8a002d25-cbf3-54a3-a01c-166d6ea32a7a",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 30,
+      "pagina_fim": 30,
+      "titulo": "2.2. Regra de Três Composta",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8b849ebd-7ed3-563a-bae3-fb9374a07d7b",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "1.2. Taxas Equivalentes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8bc0ebf0-51f5-59d8-a4c8-323deff49cd1",
+      "documento_id": "270fb7c0-f4dd-5140-a3e0-4a3a6bf36933",
+      "pagina_inicio": 28,
+      "pagina_fim": 28,
+      "titulo": "6.3. Bancos de Investimento",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8bcf1f7c-33fe-5aff-87f6-60dd4ebf7d6e",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Razão e Proporção",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8ce92eb7-5471-5382-bb6e-4d596f1b80b3",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Razão e Proporção",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8d2d279b-a5fc-5a3d-b0d4-3ff10fc74035",
+      "documento_id": "023cb2b0-4f19-5293-bd0f-745c438aebb1",
+      "pagina_inicio": 72,
+      "pagina_fim": 72,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8e099112-4480-5538-94d7-0540408a5e19",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8491
+    },
+    {
+      "assunto_id": "8e3790dc-48f1-5e27-8e18-d50ab4ae69bc",
+      "documento_id": "8787333a-8778-5ab9-b672-cedf751749f8",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "2.1. Classificação dos Softwares quanto à Funcionalidade",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8eb6249e-7c6d-5088-b108-e099803750c9",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1.1. Elemento",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8f3c58e1-123a-58ba-acd3-bcf643f89a81",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 33,
+      "pagina_fim": 33,
+      "titulo": "Reescrita",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8fa41db6-6396-5c36-994c-8a1b223f2a92",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 29,
+      "pagina_fim": 29,
+      "titulo": "2.2. Capitais Equivalentes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "8ffc2c16-67b9-59b0-8e29-4ab296e6c450",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "1.3. Produto de Matrizes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9022dd45-785a-5896-bccf-2e2a8cc31343",
+      "documento_id": "3f3b66ff-a09d-5de4-bdcb-d3572a4965e5",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "2. História da Educação a Distância",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "90cc1888-33a5-5dd1-8429-9f7ca46e4887",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 52,
+      "pagina_fim": 52,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "90cf9c2d-7893-5288-b3c3-0ba167271ff2",
+      "documento_id": "01596be4-b8c2-5957-8d45-e6300416db17",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "1.3. Multiplicação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "911b5929-f25c-5552-b011-ae279516618c",
+      "documento_id": "270fb7c0-f4dd-5140-a3e0-4a3a6bf36933",
+      "pagina_inicio": 27,
+      "pagina_fim": 27,
+      "titulo": "5.5. Bancos Comerciais Cooperativos",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "914161bd-e9ab-5698-92be-c4dd9142b06c",
+      "documento_id": "517d64cc-5e8f-5165-8a59-d502769a7cb2",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "Lavagem de Dinheiro",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "916468b3-cfb5-5148-b32a-fa47cccd10d5",
+      "documento_id": "b8c79256-ec67-542a-adf2-e6c366816916",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "Segurança Cibernética",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "92595e3a-26dc-5dd2-b42d-66b6da2a72a8",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "O Cenário Pré-Digital",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "92dde17c-e930-5668-95c3-94985cd27f4a",
+      "documento_id": "57f821b1-580d-5ee4-b7c3-dfeaa4c34ff2",
+      "pagina_inicio": 13,
+      "pagina_fim": 13,
+      "titulo": "Startup",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "93380595-e09c-5073-b745-aceaa2512c0d",
+      "documento_id": "ab2c390c-c876-5b41-a825-680dc67b1f2b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Sistema de Amortização Constante (SAC)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "93b11174-153c-54e3-9767-6c1cba506f0d",
+      "documento_id": "7ecfa240-cb0b-54f1-b221-bd43bb085511",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "2.3. Função Exponencial",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "95007cc7-cb01-524f-81b8-71b5f245d44a",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 17,
+      "pagina_fim": 17,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "954f2cc8-dd1d-54f7-bfd6-47b9cc8a3432",
+      "documento_id": "313f345f-d4e9-5c1c-b826-17d33dc81133",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9575a869-7134-55c2-bd29-d11aed5d09bb",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 39,
+      "pagina_fim": 39,
+      "titulo": "3.3. Soma e Subtração de Porcentagem",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9633b9d6-a455-529b-81fc-7826afcabb20",
+      "documento_id": "85a2fc24-cd9e-504b-bad4-2b781447d372",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "Do Conteúdo da Política de Responsabilidade Socioambiental (“PRSA”)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "97121e1b-4d41-50da-a08a-cf09973c0784",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 18,
+      "pagina_fim": 18,
+      "titulo": "1.3. Taxas Real Aparente e Inflacionária",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "971cc694-0a54-56ff-a200-204f796c46ee",
+      "documento_id": "fb351526-6644-57f8-8e2e-69d2ae8103ac",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "Definição de Texto e de Interpretação de Textos",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "976241c2-0c3d-5d0f-aeac-c9f6b7790375",
+      "documento_id": "e4f3ad99-0e79-5dac-a25b-82a725324cb3",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "A Tríade do Planejamento Orçamentário: PPA, LDO e LOA",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "978c8235-4400-5bae-9749-37ef402f2e41",
+      "documento_id": "c0808f25-fd71-5444-99d9-1dfb4a6852fb",
+      "pagina_inicio": 11,
+      "pagina_fim": 11,
+      "titulo": "Benefícios do PowerShell",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "98134310-f27f-59d1-861e-5113610e4c89",
+      "documento_id": "07416a40-5dd3-5fa0-8066-528de1dc6e0f",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "986c103e-3b8b-5b48-b9ec-c646f71826d3",
+      "documento_id": "d6e7b688-2b7b-5b86-8698-5d8f59bf1e9f",
+      "pagina_inicio": 73,
+      "pagina_fim": 73,
+      "titulo": "Gabarito Comentado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9899dfbe-11c7-5471-a8cd-28df2f7b5309",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8491
+    },
+    {
+      "assunto_id": "98c946b8-c8ad-5bfa-9fe7-35be41defa7a",
+      "documento_id": "07416a40-5dd3-5fa0-8066-528de1dc6e0f",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Normativos SARB 5 e 6",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "99e2895d-dfc3-5eb4-a4be-a7dbdf4e19b9",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 26,
+      "pagina_fim": 26,
+      "titulo": "3.2. Marketing de Relacionamento",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9a262dee-6b40-59a4-9e80-44316a467b47",
+      "documento_id": "07416a40-5dd3-5fa0-8066-528de1dc6e0f",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Normativos SARB 18 a 20",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9a5edfc3-7336-5a19-95eb-0730114c6571",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Determinantes",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9b199ec4-528d-5276-9bc4-af27d3fa9327",
+      "documento_id": "313f345f-d4e9-5c1c-b826-17d33dc81133",
+      "pagina_inicio": 51,
+      "pagina_fim": 51,
+      "titulo": "Gabarito Comentado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9b6a92bb-01b4-54cc-a055-242ae94743fd",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 39,
+      "pagina_fim": 39,
+      "titulo": "3.1. Classificação de Sistemas Lineares",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9c78274a-6401-58ba-a4a1-47a2b8c06805",
+      "documento_id": "43f5dd2d-5e17-52e4-b369-36bd44216407",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Disposições Comuns para Hipoteca, Penhor e Alienação Fiduciária",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9c994d25-15fb-53d3-8788-f4e58c73ad1d",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "Open Finance",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9d4b9c4c-de08-5540-8d50-c2fa766e490a",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 143,
+      "pagina_fim": 143,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8317
+    },
+    {
+      "assunto_id": "9d88314e-951c-5cc7-9705-279bce6e1466",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "1. Lei n. 13.146/2015",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9e9cab30-72a9-5606-a028-5185c8eded62",
+      "documento_id": "57f821b1-580d-5ee4-b7c3-dfeaa4c34ff2",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Novos Modelos de Negócios",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9f23f839-54b6-5dcf-a8f4-3bbd44d7522c",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9fb9f30c-3977-58aa-8bfb-815a053e33f4",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "O Cenário Pré-Digital",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "9ff30293-e458-5b22-bb31-68d640696c90",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "2.2. Comportamentos do Consumidor",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a0258070-ecbd-524d-8cfc-7f3c276b8613",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 17,
+      "pagina_fim": 17,
+      "titulo": "Verb Tenses (Tempos Verbais)",
+      "metodo": "pdf_sumario_titulo_correspondente",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a04928b0-aa3c-5870-bbc9-15c003b6daf9",
+      "documento_id": "c18f428c-fbc7-54f4-aa6d-3dc44b2effd1",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Introdução aos Sistemas de Suporte a Decisão",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a05ec396-b32f-5071-9d4e-d25f4353e0ac",
+      "documento_id": "fffa2bfc-c1ef-5880-86ec-e9b0ebd99dd3",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a0a42f93-e353-5005-b4e5-2e3369e62580",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "Semântica: Homonímia",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a100d792-b361-58f0-9e17-eb6669c09088",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 32,
+      "pagina_fim": 32,
+      "titulo": "Reescrita",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a224f2ac-75b5-5e3d-9a60-64c452031ff7",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.9113
+    },
+    {
+      "assunto_id": "a2b4c7e4-a0bb-56f8-bab3-e05c3039376d",
+      "documento_id": "3ba765df-08f2-5f3c-b137-cda57b85a22d",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "Estrutura do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a2b58b54-e988-5b88-a733-bec8e91ba25d",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a2c46f0e-b238-5421-b68d-5a5db95af030",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 46,
+      "pagina_fim": 46,
+      "titulo": "Conditional Sentences (Sentenças Condicionais)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a303eef0-7617-5144-9dba-092514e5ca6e",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8143
+    },
+    {
+      "assunto_id": "a35a6c54-d0a3-5c53-a7d9-8ed0288e3b91",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 110,
+      "pagina_fim": 110,
+      "titulo": "Gabarito Comentado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a3bef29e-736b-5247-b6d7-8610f7782a28",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 36,
+      "pagina_fim": 36,
+      "titulo": "Reescrita",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a40a2547-bd0f-50d1-9949-963818202770",
+      "documento_id": "cb959efb-fce4-5e65-9854-a67e41248398",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Ortografia e gramatica",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a5c8cc87-356b-580d-92c3-e779f1989bab",
+      "documento_id": "313f345f-d4e9-5c1c-b826-17d33dc81133",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a65d91c5-6889-5e86-b411-4e7456b457dc",
+      "documento_id": "93c840d2-a974-5055-aaaa-35f98461d1b9",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "2.2. Meios de Pagamento em Sentido Amplo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a719d858-da91-5210-8241-86e49b9e9f23",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Ética em vendas",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a73f8d10-6a88-52c7-b104-1a0f301bfa1d",
+      "documento_id": "cb06f89e-de35-5718-aee0-a005953b478f",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Funções e gráficos do 2º grau",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a816e761-803e-5b62-b3a8-42095edad347",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 48,
+      "pagina_fim": 48,
+      "titulo": "8. Técnicas de Vendas: da Pré-Abordagem ao Pós-Vendas",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a879b7c7-98e5-5877-bec4-95dfe8c2a7fc",
+      "documento_id": "93c840d2-a974-5055-aaaa-35f98461d1b9",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Meios de pagamento (M1)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a904c3a8-c3a1-5b46-b124-4b30769d16a3",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 23,
+      "pagina_fim": 23,
+      "titulo": "3. Valor, Satisfação e Retenção de Clientes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a918054f-f0cc-54e6-b678-90c9c30daca3",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 17,
+      "pagina_fim": 17,
+      "titulo": "2.2. Matriz 2x2",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a918cccf-91d7-5746-9142-445c88787952",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8232
+    },
+    {
+      "assunto_id": "a9f1de86-1830-51d2-b788-87b5731a290d",
+      "documento_id": "aa60e5d8-9a16-505c-aa8b-3ccc6c676094",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "Aval",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "a9f2d9b2-08b1-5967-b0ee-e9f0d1564287",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Ética em vendas - conceito",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "aaa6a9ab-6961-5ac8-9ecd-093cd5b3f276",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Lei nº 13.146/2015 - Acessibilidade (conceito)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "aabaffd0-a4aa-5ca6-bf8c-a953cdfe0b93",
+      "documento_id": "06430400-a0b7-5c0a-bf4e-a5f3d2744bf5",
+      "pagina_inicio": 14,
+      "pagina_fim": 14,
+      "titulo": "2.4. Classificação das Redes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ab4c3f49-4e21-5e75-891b-b8ae73ddc4f1",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 26,
+      "pagina_fim": 26,
+      "titulo": "3.2. Marketing de Relacionamento",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ac49e224-5b70-58cf-8324-1cb04ef7bb07",
+      "documento_id": "cb959efb-fce4-5e65-9854-a67e41248398",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "8.3. Uso do Hífen",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ac91fdfc-14f5-5a59-8d37-0877cd299fa6",
+      "documento_id": "d6678845-c2c7-5f87-8523-80606900d2c9",
+      "pagina_inicio": 52,
+      "pagina_fim": 52,
+      "titulo": "1.3. Part of Speech (Classes Gramaticais)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "acf046c4-517b-56dd-9d1f-5c3e89679a65",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 51,
+      "pagina_fim": 51,
+      "titulo": "Resumo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8315
+    },
+    {
+      "assunto_id": "acf575a9-4bc0-5526-887d-550d73ccd687",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "1. Lei n. 13.146/2015",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ad4cde6f-bbb6-5ee3-91f4-094f38b9e204",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ad575b6c-bd72-549c-86a2-0ba357f6119c",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ad59fb80-014f-5078-a551-09cd3bb62bbc",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 62,
+      "pagina_fim": 62,
+      "titulo": "13. Padrões de Qualidade no Atendimento aos Clientes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ae8a5967-eb5f-5208-a00d-15eb05674a28",
+      "documento_id": "a4df1678-cacd-519a-8cf9-b61ccb0837a5",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "Banco Central do Brasil",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "af77c49c-8e1d-52cd-b0ad-226e04af2202",
+      "documento_id": "c975a375-0a4a-53b0-a182-4828b130a17f",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.9. Criptografia",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "af7ae22b-0779-5214-9742-b56cb1794895",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 44,
+      "pagina_fim": 44,
+      "titulo": "7.1. Características dos Serviços",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "afacf43e-e3a3-5e62-b6dd-b202b375f543",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Jornada do cliente - definição",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b148152b-9056-5af1-ba33-e8eb1a0b2d67",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "1.2. Taxas Equivalentes",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b1bb0cf1-f095-5646-bb12-c9e6b606b306",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 38,
+      "pagina_fim": 38,
+      "titulo": "Modal Verbs (Verbos Modais)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b2642a41-7c17-5b43-b94c-240850fee6b4",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 46,
+      "pagina_fim": 46,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b4164da6-667f-52aa-846a-94fd1850f335",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Marketing digital - copywriting",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b45ee605-efa6-599b-b98b-8755dfb83a09",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 32,
+      "pagina_fim": 32,
+      "titulo": "Reescrita",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b4d8028f-8cb8-5305-99f0-ad50636a5c90",
+      "documento_id": "d4a29849-ece4-5de9-bb00-8dd78011f098",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "1.2. Números Racionais",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b50fff7e-17bd-56af-9126-a686766ca6ca",
+      "documento_id": "d6e7b688-2b7b-5b86-8698-5d8f59bf1e9f",
+      "pagina_inicio": 49,
+      "pagina_fim": 49,
+      "titulo": "Resumo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b537e441-a073-5e17-8dc1-96c9d23dbded",
+      "documento_id": "25a941f5-5f7b-5555-96eb-a32d161066cf",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "10. Navegação Segura",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b806b9de-c8a1-547e-a7ee-fe96c0596486",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Momento da verdade - definição",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b84b73b6-8824-57f9-af73-9b40c48b93c0",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "2.2. Comportamentos do Consumidor",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b8553b70-7bea-56b7-bff6-015ca36c2fdd",
+      "documento_id": "d6e7b688-2b7b-5b86-8698-5d8f59bf1e9f",
+      "pagina_inicio": 43,
+      "pagina_fim": 43,
+      "titulo": "Prazos e Regulação do Sinistro na Nova Lei de Seguros",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b88f4cb3-a151-5ee6-a8b3-8f91cc6403b7",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 57,
+      "pagina_fim": 57,
+      "titulo": "Estrutura de um Texto Dissertativo-Argumentativo",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b8a4213c-8e06-5b2d-9fc0-894b2a748928",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 40,
+      "pagina_fim": 40,
+      "titulo": "Problemas Estruturais das Frases",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b95c51af-75e3-5009-95c3-fb26323fe7a3",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "1.4. Matriz Transposta",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "b9bfe735-56ea-5433-b4c8-b8d2ca06990e",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "Definição de Texto e de Interpretação de Textos",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ba21218e-9d3f-559b-9381-2c491af7695f",
+      "documento_id": "c975a375-0a4a-53b0-a182-4828b130a17f",
+      "pagina_inicio": 15,
+      "pagina_fim": 15,
+      "titulo": "2.8. Segurança do Windows",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "baadf06e-6f93-5f75-9e66-0bcc00c5d1d6",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8855
+    },
+    {
+      "assunto_id": "bacaec30-3d9b-59e7-9c6b-c1d6f1edcd1f",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "2.3. Matriz 3x3",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "bb4652e6-3f15-554f-aedb-f7f4b06f6237",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "O Cenário Pré-Digital",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "bc3d60cd-87bd-59ee-bd76-11e631e19378",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 28,
+      "pagina_fim": 28,
+      "titulo": "2.1. Fluxo de Caixa",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "bcf5386f-82ce-5756-95ff-f16e0796d9ce",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "bd81a0b0-a31f-5c39-b30b-752e3367dc1d",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "bdb9bbee-0e5d-54a3-97c8-a23226091b1c",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 15,
+      "pagina_fim": 15,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "be75cc24-298b-58f4-b9a7-490d0389f362",
+      "documento_id": "a4df1678-cacd-519a-8cf9-b61ccb0837a5",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "Estrutura do Sistema Financeiro Nacional",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "bfc5ef39-a24f-540c-b5cb-554f6d8d9437",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 43,
+      "pagina_fim": 43,
+      "titulo": "7.1. Características dos Serviços",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c14f2f42-be51-55af-a186-ee2235db5ea0",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "1.4. Matriz Transposta",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c1ac7fb2-1d75-595f-9c48-a767ae85cfde",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c28ffb42-b961-52d5-9757-7d92092ffcf9",
+      "documento_id": "7f415850-9ea1-545a-a55f-17e9ea16e9a6",
+      "pagina_inicio": 55,
+      "pagina_fim": 55,
+      "titulo": "Classes Gramaticais",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c2a4bffb-75d5-5f47-bb69-2ac3abbaf02b",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "3. Valor, Satisfação e Retenção de Clientes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c2c1e716-7503-5b03-b64e-d115f3257fca",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 59,
+      "pagina_fim": 59,
+      "titulo": "11. Noções de Marketing Digital: Geração de Leads; Técnica de Copywriting; Gatilhos Mentais; Inbound Marketing",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c2ecef9f-5b57-5941-92e1-a2ecd8865ac2",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c330d902-0898-55bd-a3d0-d3ae9374180b",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 38,
+      "pagina_fim": 38,
+      "titulo": "Frase: Conceito e Classificação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c3f43c89-6341-5728-a3ec-5c8416f04791",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 68,
+      "pagina_fim": 68,
+      "titulo": "Resumo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c42a5a17-9b0a-54c7-8f4e-5a74d95da34b",
+      "documento_id": "7f415850-9ea1-545a-a55f-17e9ea16e9a6",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Gramática — Parte I",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c436a024-e6d0-5c91-9a9b-81fa597367ef",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 12,
+      "pagina_fim": 12,
+      "titulo": "Conjugação Verbal em Inglês",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c4819c0d-1873-5629-b309-9e565dc0ea21",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 28,
+      "pagina_fim": 28,
+      "titulo": "2.1. Fluxo de Caixa",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c5c5036a-bd9a-5391-a841-be4761d4a84a",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 36,
+      "pagina_fim": 36,
+      "titulo": "Frase: Conceito e Classificação",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c63cd7b9-da8b-5e7c-a849-4821d63211b8",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 37,
+      "pagina_fim": 37,
+      "titulo": "3. Sistemas Lineares",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c651e3ae-83db-5f9b-b4fb-4ab34c7d6d42",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Processo de vendas - etapas",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c6dcc74e-2c7a-50f1-861d-11dd6d643ad0",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c6e5010c-7194-56cf-b64a-7395ad56f91b",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "1.2. Taxas Equivalentes",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c7c678b3-dc65-5c14-a7fc-30ddd16141a3",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 42,
+      "pagina_fim": 42,
+      "titulo": "7. Gestão da Qualidade em Serviços",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c8bd9d7c-028b-5d5f-9c41-653086d9f726",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "2.1. Regra de Três Simples",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c90bd876-e21d-5791-b973-9a39b06ca6f4",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 43,
+      "pagina_fim": 43,
+      "titulo": "7.1. Características dos Serviços",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c97c2135-00f7-5a67-ae75-c64782499e7b",
+      "documento_id": "d6e7b688-2b7b-5b86-8698-5d8f59bf1e9f",
+      "pagina_inicio": 25,
+      "pagina_fim": 25,
+      "titulo": "Previdência Complementar",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "c9b5c06b-8321-5fd3-a33a-ac1f13b9056d",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 17,
+      "pagina_fim": 17,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ca356f28-f06f-5682-a63f-182741df3c33",
+      "documento_id": "a3122d1c-1929-592c-8a7b-91ed03bff79f",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1.2. Soma de Matrizes",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ca547102-a6f4-5789-ac87-9fcf53f05bb9",
+      "documento_id": "270fb7c0-f4dd-5140-a3e0-4a3a6bf36933",
+      "pagina_inicio": 13,
+      "pagina_fim": 13,
+      "titulo": "3.1. Banco Central do Brasil – BCB/BACEN",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ca7006ba-fa49-56e1-871b-9dfd704397c1",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "Vozes Discursivas (Intertextualidade)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ca8cfea0-ab03-5924-9d44-3052d7a90130",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "cae58447-293e-55bd-b02e-ddf079924df3",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 58,
+      "pagina_fim": 58,
+      "titulo": "11. Noções de Marketing Digital: Geração de Leads; Técnica de Copywriting; Gatilhos Mentais; Inbound Marketing",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "caf58602-2bff-55c7-98f0-2e2af4a3ae42",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 45,
+      "pagina_fim": 45,
+      "titulo": "7.2. Os 5 Gaps da Qualidade",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "cb229da1-dc38-5738-bd3b-6b1f648be269",
+      "documento_id": "aa60e5d8-9a16-505c-aa8b-3ccc6c676094",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Garantias do Sistema Financeiro Nacional – Parte I",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "cc02ce90-4367-500b-938c-714c33ab6176",
+      "documento_id": "06430400-a0b7-5c0a-bf4e-a5f3d2744bf5",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Redes - Proxy",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "cc20e44c-c497-53ad-812f-978275b7d2d0",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 46,
+      "pagina_fim": 46,
+      "titulo": "7.3. Modelo SERVQUAL",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ccc4f775-4ccd-53e4-b983-f9af4fad1491",
+      "documento_id": "f52d2c90-c36e-5e29-8857-a25245da538b",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Multimídia",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "cd6d1350-14fc-5522-a3a7-df97e0a93ac8",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_sumario_titulo_correspondente",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "cda28993-16e1-5cda-bcc2-adb5dc1a28a6",
+      "documento_id": "cb959efb-fce4-5e65-9854-a67e41248398",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "1. Palavras Escritas com S",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "cdd7d8b3-3777-5b09-99ee-64a85f6dfa77",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "Uso de Inteligência Artificial",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ce35cac0-0ed9-528f-a6ce-69e0600ae71d",
+      "documento_id": "d6678845-c2c7-5f87-8523-80606900d2c9",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Vocabulário e Gramática - Parte I",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ceb1acc8-3d9a-5401-8d0b-a1eb20a92539",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 38,
+      "pagina_fim": 38,
+      "titulo": "Frase: Conceito e Classificação",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "cf68be2a-f885-503b-948e-049e8fef26da",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8551
+    },
+    {
+      "assunto_id": "d0832f08-bad5-50b7-84a1-877ef9c12533",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 33,
+      "pagina_fim": 33,
+      "titulo": "Reescrita",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d0e9faae-84b7-5d9c-9692-f0ee89d301e5",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Lei nº 13.146/2015 - Estatuto da Pessoa com Deficiência",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d0ed67cb-ce67-50d6-83c9-a8824998e175",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Satisfação do cliente - definição",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d14aa4be-897c-592a-82de-a47064a6452b",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 23,
+      "pagina_fim": 23,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d1e578ca-c51e-5152-8f22-62b4df41cd7a",
+      "documento_id": "01596be4-b8c2-5957-8d45-e6300416db17",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "1.3. Multiplicação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d3a6a78a-1326-5bde-b3d6-fa16fdc057a6",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "1.4. Matriz Transposta",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d3cbcd95-7067-5fba-9c1d-ef233ec9a6da",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d3f40c12-13df-5174-b77b-4dba11a4a83b",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 64,
+      "pagina_fim": 64,
+      "titulo": "13. Padrões de Qualidade no Atendimento aos Clientes",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d8416947-455c-5b41-880e-1f4639442fad",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 52,
+      "pagina_fim": 52,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d8a55b87-b369-53e8-a64b-3efc7acb3ccf",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 48,
+      "pagina_fim": 48,
+      "titulo": "8. Técnicas de Vendas: da Pré-Abordagem ao Pós-Vendas",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d8fb9710-a59c-5212-b4d2-761f65589cb3",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8491
+    },
+    {
+      "assunto_id": "d90a1a52-53f0-5aa1-8b9e-3451f8399ad8",
+      "documento_id": "8787333a-8778-5ab9-b672-cedf751749f8",
+      "pagina_inicio": 74,
+      "pagina_fim": 74,
+      "titulo": "4.6. Conceitos de Organização e de Gerenciamento de Informações, Arquivos, Pastas e Programas",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d9217650-70e6-5d27-9f18-2a4f7238e754",
+      "documento_id": "4aca52a5-922c-5a69-8aa6-0578c8c988a6",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Conceitos Básicos do Linux",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "d92985b3-d5a5-5529-9204-f8f7b0dc52e3",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 99,
+      "pagina_fim": 99,
+      "titulo": "17. Entendimento dos Tribunais",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "da06e869-6389-5437-aded-c4179a952317",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "Lei nº 13.146/2015 - Habilitação e reabilitação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "da6582e7-1055-5706-ad7d-e6adc4c41d07",
+      "documento_id": "7ef4ad0f-f340-5df6-bafc-93f0f17f82b6",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Sigilo Bancário",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "daa7a39d-acad-5bb7-b322-30bb9d85f132",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "1.3. Produto de Matrizes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "daae9276-fb83-5ccd-8a44-8ab4169def47",
+      "documento_id": "6fc16f3c-8a88-5b88-933e-91ba4445eadb",
+      "pagina_inicio": 29,
+      "pagina_fim": 29,
+      "titulo": "3.4. Negação dos Operadores E e OU",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "db0ac002-0318-5bad-af74-95063c0eb5c6",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 26,
+      "pagina_fim": 26,
+      "titulo": "2.1. Fluxo de Caixa",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "db254406-b66e-58f0-b93d-73019e1bf3f8",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Telemarketing - conceito",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "dc0ab2c2-a00b-56e3-a651-82e5c3726a5b",
+      "documento_id": "270fb7c0-f4dd-5140-a3e0-4a3a6bf36933",
+      "pagina_inicio": 27,
+      "pagina_fim": 27,
+      "titulo": "5.5. Bancos Comerciais Cooperativos",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "dc3435c6-853f-5993-b609-53deaedcd787",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "Banco Digital × Banco Digitalizado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "dc3ddb0a-22af-55ed-8481-9830576f54a1",
+      "documento_id": "40bac2e2-1ec7-55bd-87b7-fb12f18ca4d8",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Introdução",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "dd1c92ae-0125-5140-81c1-e4f6c05f2c1b",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 54,
+      "pagina_fim": 54,
+      "titulo": "Direct and Indirect Speech or Reported Speech (Discursos Direto e Indireto)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "dde6dcdb-3bfe-5831-955b-d542e7f110fb",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 29,
+      "pagina_fim": 29,
+      "titulo": "Variação Linguística",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "de27e8e0-5a92-5873-893a-7c86ef1e3986",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "Sistema de Bancos-Sombra (Shadow Banking)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "deb5bdce-9455-5d2b-b4ad-b812f48b8665",
+      "documento_id": "07416a40-5dd3-5fa0-8066-528de1dc6e0f",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Normativos SARB 1 e 2",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "df8be3fa-0f81-5bcb-b28e-564500f45381",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 54,
+      "pagina_fim": 54,
+      "titulo": "Direct and Indirect Speech or Reported Speech (Discursos Direto e Indireto)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e01ef1a2-ce7b-57c0-851d-109393f7ff21",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e0455a23-1a2b-5107-9d82-1049c8175833",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 57,
+      "pagina_fim": 57,
+      "titulo": "11. Noções de Marketing Digital: Geração de Leads; Técnica de Copywriting; Gatilhos Mentais; Inbound Marketing",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e05430d0-bbdf-5280-9637-c404462171d8",
+      "documento_id": "d6e7b688-2b7b-5b86-8698-5d8f59bf1e9f",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Produtos bancarios",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e0beeb3f-3906-5ee0-b495-c6a8d9b86276",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 39,
+      "pagina_fim": 39,
+      "titulo": "Frase: Conceito e Classificação",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e161aa02-7fef-5021-832f-452c4a5e9da5",
+      "documento_id": "26f32c7b-9310-5a8f-9686-fd2607e0cdf4",
+      "pagina_inicio": 14,
+      "pagina_fim": 14,
+      "titulo": "Tipos de Ordens",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e2d24372-af57-5a18-8392-20a463e00efc",
+      "documento_id": "93c840d2-a974-5055-aaaa-35f98461d1b9",
+      "pagina_inicio": 46,
+      "pagina_fim": 46,
+      "titulo": "5. Mercado de Capitais",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e2f140a5-5a8a-594f-bd9e-a2649b79559d",
+      "documento_id": "c0808f25-fd71-5444-99d9-1dfb4a6852fb",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "Windows 11",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e3b0c7b8-1ba2-5e2e-8dba-bff903d86c23",
+      "documento_id": "412fc355-9713-5577-a79e-2784e1c4caab",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "3. Princípios Básicos de Segurança da Informação",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e3d1e83c-c1ee-54a1-98ad-9bca0ecd8be4",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e3ed7880-949c-5a01-8523-fe1259cc0f4d",
+      "documento_id": "70675eb8-03cf-546b-bbc6-f297fbb2ff8b",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "Instrumentos de Política Monetária",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e5127138-c0e2-5251-b9d8-ad368efe8220",
+      "documento_id": "cb959efb-fce4-5e65-9854-a67e41248398",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Acentuação",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e55a0df0-506e-5ce6-bfed-d42c1f618d7e",
+      "documento_id": "70675eb8-03cf-546b-bbc6-f297fbb2ff8b",
+      "pagina_inicio": 32,
+      "pagina_fim": 32,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e8b2733c-3890-51bc-adbc-cbe77aead34f",
+      "documento_id": "8787333a-8778-5ab9-b672-cedf751749f8",
+      "pagina_inicio": 87,
+      "pagina_fim": 87,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e8bf1414-5e96-58fe-b14f-4cfef92be307",
+      "documento_id": "c18f428c-fbc7-54f4-aa6d-3dc44b2effd1",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Introdução aos Sistemas de Suporte a Decisão",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e9d1e319-bf4e-5c1e-a4f9-873a19dc5601",
+      "documento_id": "3ba765df-08f2-5f3c-b137-cda57b85a22d",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "Câmbio Flutuante sem Intervenção",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "e9fb704d-8284-5e53-b9a2-f49bf6bc1434",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1.1. Elemento",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "eacabd7c-7116-5344-9656-69bff0a071bb",
+      "documento_id": "313f345f-d4e9-5c1c-b826-17d33dc81133",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "Apresentação",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.8408
+    },
+    {
+      "assunto_id": "eb7e60dd-0e5f-5024-b78d-bcb8929e6fdf",
+      "documento_id": "d4cda4f2-4de1-5822-afbc-0a0c355eafb0",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1.1. Progressão Aritmética",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ecf73bab-d5c8-5514-b3cb-78e3931da913",
+      "documento_id": "1a695dfb-6a5a-51c9-81ac-b72553b21b06",
+      "pagina_inicio": 143,
+      "pagina_fim": 143,
+      "titulo": "Questões de Concurso",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ed000b34-0a7c-5824-9797-618dcb73b11d",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 69,
+      "pagina_fim": 69,
+      "titulo": "Resumo",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ed53c800-69fa-5645-8546-114e090a1f92",
+      "documento_id": "426ed85e-163d-5568-868c-bbf0cbf64168",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Autorregulação Bancária",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ed8e4cb8-31da-589b-bcc3-04205cb87223",
+      "documento_id": "7f415850-9ea1-545a-a55f-17e9ea16e9a6",
+      "pagina_inicio": 55,
+      "pagina_fim": 55,
+      "titulo": "Classes Gramaticais",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ee0b5c05-173f-53d4-82e3-3c414d16354a",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ee46bf64-2430-5ff5-9fda-3de943d63956",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "eea7d2b3-df09-5c38-a5d3-f6ab962bd9da",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "eed83415-48a4-5bde-8165-a5210910578c",
+      "documento_id": "c5199559-6cfd-58ef-a908-6a20d3dd97bf",
+      "pagina_inicio": 13,
+      "pagina_fim": 13,
+      "titulo": "Open Finance",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ef3905df-4eb6-5157-b980-228172fcd3a2",
+      "documento_id": "e7bd4e65-7246-5e8a-84a8-945782dacb63",
+      "pagina_inicio": 33,
+      "pagina_fim": 33,
+      "titulo": "Reescrita",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ef5c8666-d06d-5307-bdde-6f960d8b0a4c",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ef7665a3-c76c-5c43-b1d5-0b0a6ed483be",
+      "documento_id": "412fc355-9713-5577-a79e-2784e1c4caab",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "2. Conceitos de Segurança da Informação",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ef86876b-a1e8-50c6-abf9-b7c7ec16729f",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 38,
+      "pagina_fim": 38,
+      "titulo": "Modal Verbs (Verbos Modais)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "efb19903-41c9-5994-b3e3-d15086b640bf",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "1.3. Produto de Matrizes",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f01b3d4c-f924-5113-857b-46ae465d45bb",
+      "documento_id": "00c0b749-8fc6-506a-8d6a-d1dbc4fa3fb1",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Razão e Proporção",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f03c0d83-11e0-57ed-b285-6db7136e2559",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 20,
+      "pagina_fim": 20,
+      "titulo": "Vozes Discursivas (Intertextualidade)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f056aec3-3d7d-5d11-b4da-24627e9761cf",
+      "documento_id": "c7b6f2c2-6c2e-5058-bbc8-ac2b64aa7b39",
+      "pagina_inicio": 11,
+      "pagina_fim": 11,
+      "titulo": "Blockchain",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f0cc10ec-45e2-5d75-8e34-be5d238326a0",
+      "documento_id": "270fb7c0-f4dd-5140-a3e0-4a3a6bf36933",
+      "pagina_inicio": 28,
+      "pagina_fim": 28,
+      "titulo": "6.3. Bancos de Investimento",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f1c7b005-2205-5bf1-b363-90ff648eb4db",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 48,
+      "pagina_fim": 48,
+      "titulo": "Verb Patterns (Padrões Verbais)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f1fa3ddb-6b15-57f3-90e9-3fb6cc36261b",
+      "documento_id": "06430400-a0b7-5c0a-bf4e-a5f3d2744bf5",
+      "pagina_inicio": 9,
+      "pagina_fim": 9,
+      "titulo": "2. Acesso à Distância a Computadores",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f23c8d8e-bfd4-520c-91ca-70065e7f9e21",
+      "documento_id": "8aecd991-cdb4-5d41-abf4-2dd615902d7f",
+      "pagina_inicio": 21,
+      "pagina_fim": 21,
+      "titulo": "2.4. Teorema de Binet",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 0.83
+    },
+    {
+      "assunto_id": "f287bcf4-773e-5733-b634-53608b5c1967",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f289b9a8-85a3-5747-bb58-a9742e8b1c07",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 24,
+      "pagina_fim": 24,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f354e917-30d2-5a32-9f8f-a2b4198244c4",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 25,
+      "pagina_fim": 25,
+      "titulo": "Marcas Discursivas (de Pressuposição)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f3a093c5-b5c1-561d-9bfe-2c0dcbaac067",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 31,
+      "pagina_fim": 31,
+      "titulo": "4.3. Churn Rate (Taxa de Rotatividade de Clientes)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f4a4a488-a861-5f98-9658-6f39a241e78b",
+      "documento_id": "505cda3a-34ab-501a-97a4-21feb64bc252",
+      "pagina_inicio": 4,
+      "pagina_fim": 4,
+      "titulo": "A. Introdução ao MS Office",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f4bb2f5e-0553-5352-baeb-227bd4aa1881",
+      "documento_id": "06430400-a0b7-5c0a-bf4e-a5f3d2744bf5",
+      "pagina_inicio": 44,
+      "pagina_fim": 44,
+      "titulo": "3.2. Criptomoedas",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f4bd81d5-8e39-54df-b7ad-05a2be4db997",
+      "documento_id": "d4a29849-ece4-5de9-bb00-8dd78011f098",
+      "pagina_inicio": 26,
+      "pagina_fim": 26,
+      "titulo": "3.4. Conversão entre Unidades de Massa e Comprimento",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f4f2b77d-c632-55a0-b1e0-3c3e464aafd5",
+      "documento_id": "517d64cc-5e8f-5165-8a59-d502769a7cb2",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Introdução",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f4f55760-0574-5f95-a250-c97e50338897",
+      "documento_id": "3ba765df-08f2-5f3c-b137-cda57b85a22d",
+      "pagina_inicio": 8,
+      "pagina_fim": 8,
+      "titulo": "Instituições Autorizadas",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f56af665-7387-5dc3-a188-273136866bdd",
+      "documento_id": "8b0a00ad-bc36-5207-b1c7-168a5ac0091f",
+      "pagina_inicio": 6,
+      "pagina_fim": 6,
+      "titulo": "2. Equação do Primeiro Grau",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f5b0c820-ad0e-5621-be60-dbdf9ee19ee1",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 48,
+      "pagina_fim": 48,
+      "titulo": "Verb Patterns (Padrões Verbais)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f79ff49d-f41b-5eb5-9806-41223d870a24",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 19,
+      "pagina_fim": 19,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f880324f-c936-55db-a69d-87718fd62ad6",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 10,
+      "pagina_fim": 10,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f959bffe-fbe1-59a1-b275-2515cd9b55af",
+      "documento_id": "d4cda4f2-4de1-5822-afbc-0a0c355eafb0",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Raciocínio sequencial",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "f9c73b7f-4db5-5a08-9b94-00e3ffa3abf8",
+      "documento_id": "270fb7c0-f4dd-5140-a3e0-4a3a6bf36933",
+      "pagina_inicio": 3,
+      "pagina_fim": 3,
+      "titulo": "SFN - Entidades supervisoras",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "fa063682-add2-5ee8-8a21-379a5685905a",
+      "documento_id": "70675eb8-03cf-546b-bbc6-f297fbb2ff8b",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "Política Monetária",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "fa269c32-c377-5c23-8f0a-852b159f74cb",
+      "documento_id": "8d50091d-64c1-5f17-b019-69e2d9081498",
+      "pagina_inicio": 5,
+      "pagina_fim": 5,
+      "titulo": "1. Condicional (SE… ENTÃO)",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "fae0ff78-1f04-534a-8e43-98cff5aaf4fb",
+      "documento_id": "313f345f-d4e9-5c1c-b826-17d33dc81133",
+      "pagina_inicio": 7,
+      "pagina_fim": 7,
+      "titulo": "2. Porcentagem",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "fb50bbe3-49af-587e-b0dd-81b905f4ee0e",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 116,
+      "pagina_fim": 116,
+      "titulo": "Gabarito Comentado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "fb6cef89-922b-508c-92ed-24efdd1e01f6",
+      "documento_id": "4d65b16b-a978-50f5-beca-6f39ac607586",
+      "pagina_inicio": 33,
+      "pagina_fim": 33,
+      "titulo": "Breve Introdução aos Estudos Linguísticos",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "fbf51f96-0a35-5539-81e1-fbe18d0488b5",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 22,
+      "pagina_fim": 22,
+      "titulo": "1.4. Taxa Interna de Retorno (TIR) e Valor Presente Líquido (VPL)",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "fbffe217-5e05-5770-b212-355620cebecb",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 16,
+      "pagina_fim": 16,
+      "titulo": "2.1. Análise ou Pesquisa do Mercado",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "fc1653bf-f5b5-5a7d-aef6-4c7f79ccece6",
+      "documento_id": "4bb67991-331a-5900-bd43-021080e8362b",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Taxas equivalentes - definição",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "fda1d2c8-962b-5b75-adf7-fd06ae9b899b",
+      "documento_id": "354c2e73-a6db-5bf1-a769-29724cd90012",
+      "pagina_inicio": 29,
+      "pagina_fim": 29,
+      "titulo": "4.2. Caminho dos 5As do Cliente",
+      "metodo": "pdf_frase_exata",
+      "confianca": "alta",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "fe606503-1afe-594e-830c-cfca472b134a",
+      "documento_id": "69ead2c8-37bd-505e-a549-da9af227f428",
+      "pagina_inicio": 55,
+      "pagina_fim": 55,
+      "titulo": "Introdução",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    },
+    {
+      "assunto_id": "ff93b208-76e8-58eb-8211-6a7d8d069267",
+      "documento_id": "07416a40-5dd3-5fa0-8066-528de1dc6e0f",
+      "pagina_inicio": 1,
+      "pagina_fim": 1,
+      "titulo": "Normativos SARB 14 a 17",
+      "metodo": "pdf_termos_concordantes",
+      "confianca": "boa",
+      "indice_score": 1.0
+    }
+  ]
+}

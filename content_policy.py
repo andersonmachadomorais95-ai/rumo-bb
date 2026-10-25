@@ -6,6 +6,7 @@ PRACTICE_BLOCKING_REASONS = {
     "familia_com_gabaritos_divergentes",
     "elemento_visual_ausente",
     "contexto_ou_visual_a_conferir",
+    "extracao_automatica_pendente",
 }
 
 

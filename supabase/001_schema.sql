@@ -64,7 +64,7 @@ end;$$;
 create or replace function public.bb_export() returns jsonb language plpgsql security definer set search_path=public,pg_temp as $$
 begin
  if auth.uid() is null or not bb_is_member() then raise exception 'Conta sem acesso autorizado';end if;
- return jsonb_build_object('format','rumo-bb-history','version',1,'content_version','1.0','model','bb-1.0','events',coalesce((select jsonb_agg(body order by seq) from bb_events where user_id=auth.uid()),'[]'::jsonb));
+ return jsonb_build_object('format','rumo-bb-history','version',1,'content_version','1.0','model','bb-2.1','events',coalesce((select jsonb_agg(body order by seq) from bb_events where user_id=auth.uid()),'[]'::jsonb));
 end;$$;
 create or replace function public.bb_restore(backup jsonb) returns jsonb language plpgsql security definer set search_path=public,pg_temp as $$
 declare u uuid:=auth.uid();h text:=md5(backup::text); e jsonb;

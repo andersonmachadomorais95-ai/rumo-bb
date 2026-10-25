@@ -36,7 +36,14 @@ def build_content():
  ids={q['id'] for q in questions};discs=load('disciplinas')
  weights={'Língua Portuguesa':15,'Língua Inglesa':5,'Matemática':7.5,'Matemática Financeira':7.5,'Atualidades do Mercado Financeiro':5,'Conhecimentos Bancários':15,'Conhecimentos de Informática':22.5,'Vendas e Negociação':22.5}
  for d in discs:d['weight']=weights[d['nome']]/10
- return {'version':'1.0','questions':questions,'subjects':load('assuntos'),'disciplines':discs,'alternatives':[a for a in alternatives if a['questao_id'] in ids],'contexts':load('contextos'),'documents':load('documentos'),'sections':load('secoes_documentos'),'attachments':[a for a in load('anexos') if a['tipo']!='link_externo'],'theory':load('trechos_teoria'),'coverage':{'total':len(qs),'released':len(ids),'quarantine':len(qs)-len(ids),'reviewPending':review_pending}}
+ documents=load('documentos');guides=load('guias');guide_weeks={g['documento_id']:g['semana'] for g in guides if g['versao_principal']}
+ for document in documents:
+  if document['id'] in guide_weeks:document['display_title']=f"Semana-{guide_weeks[document['id']]}"
+ theory=load('trechos_teoria')
+ page_map=json.loads((ROOT/'supabase'/'theory_page_map.json').read_text(encoding='utf8'))
+ curated_subjects={item['assunto_id'] for item in theory}
+ theory.extend(item for item in page_map['records'] if item['assunto_id'] not in curated_subjects)
+ return {'version':'1.0','questions':questions,'subjects':load('assuntos'),'disciplines':discs,'alternatives':[a for a in alternatives if a['questao_id'] in ids],'contexts':load('contextos'),'documents':documents,'sections':load('secoes_documentos'),'attachments':[a for a in load('anexos') if a['tipo']!='link_externo'],'theory':theory,'guides':guides,'exams':load('provas'),'examDocuments':load('prova_documentos'),'coverage':{'total':len(qs),'released':len(ids),'quarantine':len(qs)-len(ids),'reviewPending':review_pending}}
 CONTENT=build_content()
 QUESTIONS={q['id']:q for q in CONTENT['questions']}
 ANSWERS={g['questao_id']:g for g in load('gabaritos')}
@@ -80,7 +87,7 @@ class Handler(BaseHTTPRequestHandler):
   if path=='/api/bootstrap':
    with connect() as c:return self.json({'content':CONTENT,'events':all_events(c)})
   if path=='/api/export':
-   with connect() as c:return self.json({'format':'rumo-bb-history','version':1,'model':'bb-1.0','content_version':CONTENT['version'],'events':all_events(c)})
+   with connect() as c:return self.json({'format':'rumo-bb-history','version':1,'model':'bb-2.1','content_version':CONTENT['version'],'events':all_events(c)})
   base=PACKAGE/'storage' if path.startswith('/files/') else ROOT/'web';rel=path.removeprefix('/files/') if path.startswith('/files/') else path.lstrip('/') or 'index.html';f=(base/rel).resolve()
   if not f.is_relative_to(base.resolve()) or not f.is_file():return self.json({'error':'Arquivo não encontrado'},404)
   content=f.read_bytes();self.send_response(200);self.send_header('Content-Type',mimetypes.guess_type(f.name)[0] or 'application/octet-stream');self.send_header('Content-Length',str(len(content)));self.send_header('X-Content-Type-Options','nosniff');self.end_headers();self.wfile.write(content)

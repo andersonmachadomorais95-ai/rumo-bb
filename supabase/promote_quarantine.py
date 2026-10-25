@@ -228,10 +228,10 @@ def main():
             "verifique os registros antes de repetir."
         )
     quarantine_count = len(stored_quarantine_ids)
-    if quarantine_count != 124:
+    if quarantine_count != 975:
         raise RuntimeError(
             f"Ativação concluída, mas a quarentena contém {quarantine_count} registros "
-            "em vez de 124. Verifique a tabela antes de repetir."
+            "em vez de 975. Verifique a tabela antes de repetir."
         )
     key = None
     print(

@@ -57,3 +57,14 @@ test('Callback de link expirado informa erro e limpa parâmetros sensíveis da U
  assert.equal(api.passwordRecoveryError(),'Email link expired');
  assert.equal(getReplacedUrl(),'/');
 });
+
+test('Exportação rotula o modelo adaptativo atual sem alterar o histórico de eventos',async()=>{
+ let request;
+ const {api}=await loadApi('',async(url)=>{request=String(url);return {ok:true,json:async()=>({model:'bb-1.0',events:[]})};});
+
+ const backup=await api.exportData();
+
+ assert.match(request,/\/rest\/v1\/rpc\/bb_export$/);
+ assert.equal(backup.model,'bb-2.1');
+ assert.deepEqual(backup.events,[]);
+});
