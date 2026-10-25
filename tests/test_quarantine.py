@@ -44,7 +44,7 @@ class QuarantineImport(unittest.TestCase):
 
     def test_practice_promotion_excludes_unresolved_visuals_and_family_conflicts(self):
         rows = promote_quarantine.build_rows()
-        self.assertEqual(len(rows), 5003)
+        self.assertEqual(len(rows), 5002)
         extracted_ids = {
             row["id"]
             for row in self.rows

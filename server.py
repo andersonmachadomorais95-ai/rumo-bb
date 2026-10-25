@@ -27,6 +27,8 @@ def build_content():
  questions=[]
  review_pending=0
  for q in qs:
+  # Divergência entre gabarito publicado e pacote, mesma versão: isolar até conferência.
+  if q['id']=='f70a9b92-1054-5ec2-bf36-839cc913339b':continue
   eligible=q['status']=='liberada' or (q['status']=='quarentena' and is_practice_eligible(q,by_question.get(q['id'],[]),answers.get(q['id'])))
   if not eligible:continue
   item=dict(q)

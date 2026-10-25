@@ -141,7 +141,7 @@ def main():
     if not url.startswith("https://") or not url.endswith(".supabase.co"):
         raise SystemExit("Use a URL HTTPS oficial do projeto Supabase")
     rows = build_rows()
-    if len(rows) != 5003 or len(server.CONTENT["questions"]) != 5025:
+    if len(rows) != 5003 or len(server.CONTENT["questions"]) != 5024:
         raise RuntimeError("Contagens inesperadas; nenhuma alteração foi enviada.")
     private_rows = upload_quarantine.build_rows()
     bootstrap = server.CONTENT
@@ -200,9 +200,9 @@ def main():
         "bb_questions",
         {"payload->>status": "eq.liberada"},
     )
-    if active_count != 5025:
+    if active_count != 5024:
         raise RuntimeError(
-            f"Conteúdo não ativado: esperado 5025 questões, Supabase retornou {active_count}. "
+            f"Conteúdo não ativado: esperado 5024 questões, Supabase retornou {active_count}. "
             "As questões seguem repetíveis; não remova os registros em quarentena."
         )
 
@@ -228,10 +228,10 @@ def main():
             "verifique os registros antes de repetir."
         )
     quarantine_count = len(stored_quarantine_ids)
-    if quarantine_count != 975:
+    if quarantine_count != 976:
         raise RuntimeError(
             f"Ativação concluída, mas a quarentena contém {quarantine_count} registros "
-            "em vez de 975. Verifique a tabela antes de repetir."
+            "em vez de 976. Verifique a tabela antes de repetir."
         )
     key = None
     print(

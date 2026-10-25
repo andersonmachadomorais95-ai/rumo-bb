@@ -65,7 +65,7 @@ prioridade =
 
 O custo-benefício é um índice relativo, não uma promessa de ganho: valor esperado (lacuna `0,35`, urgência `0,25`, incerteza `0,20`, cobertura `0,20`) multiplicado por `participação histórica + 0,05` e dividido pelo tempo estimado da próxima atividade. A incerteza usa aproximação `1,96 × √(p × (1 − p) / (4 + peso da evidência))`. Esses coeficientes são regras pedagógicas iniciais, não parâmetros cientificamente calibrados.
 
-O plano tem no máximo 120 minutos, nos dias escolhidos pelo aluno (inclusive domingo, se escolhido). O padrão inicial é segunda a sexta. O horizonte informado é de 120 dias corridos, não uma garantia de cobertura ou de questões inéditas em todos os assuntos. Nos primeiros dias, distribui pequenos blocos de teoria direcionada e prática local por mais de um assunto. Depois, inclui revisão espaçada quando vencida e preserva cobertura de assuntos ainda pouco vistos, em vez de repetir só os piores resultados. Todas as questões de prática são feitas e registradas dentro da aplicação. A teoria usa páginas mapeadas para cada assunto; quando ainda não há correspondência confirmada, o app informa isso em vez de indicar uma página possivelmente errada.
+O plano tem no máximo 120 minutos, nos dias escolhidos pelo aluno (inclusive domingo, se escolhido). O padrão inicial é segunda a sexta. O horizonte informado é de 90 dias corridos, não uma garantia de cobertura ou de questões inéditas em todos os assuntos. Nos primeiros dias, distribui pequenos blocos de teoria direcionada e prática local por mais de um assunto. Depois, inclui revisão espaçada quando vencida e preserva cobertura de assuntos ainda pouco vistos, em vez de repetir só os piores resultados. Todas as questões de prática são feitas e registradas dentro da aplicação. A teoria usa páginas mapeadas para cada assunto; quando ainda não há correspondência confirmada, o app informa isso em vez de indicar uma página possivelmente errada.
 
 ### Biblioteca, provas e páginas dos assuntos
 
@@ -88,3 +88,16 @@ O importador envia as questões ativas em lotes de 50 e armazena os PDFs no buck
 O plano do dia é persistido e não é reorganizado a cada resposta. Novas respostas atualizam o diagnóstico e influenciam o próximo plano diário. Na virada da data local, planos antigos sem fechamento recebem um registro automático de encerramento que preserva tarefas concluídas, em andamento e não iniciadas; nenhum estado é convertido em acerto ou erro, nem pendências são empilhadas como dívida no dia seguinte. A data considera o fuso local do navegador, inclusive após meia-noite ou dias sem acesso.
 
 As escolhas de dias são preservadas inclusive em registros antigos. Não há migração automática de cinco para seis dias. O horário preferido é configurável e informativo, sem notificações ou bloqueio de acesso. O tempo disponível é limitado a 120 minutos por dia; alterações na rotina só afetam planos futuros.
+
+
+## Atualização bb-3.0 — percurso de 90 dias
+
+A distribuição agora é feita primeiro por matéria: déficit entre tempo planejado acumulado e participação histórica de pontos. Dentro da matéria, o diagnóstico seleciona assunto executável com questões já cadastradas. Duas de cada três vagas priorizam assuntos com famílias inéditas, quando disponíveis; a outra permite manutenção e erros. Isso é uma regra pedagógica, não probabilidade de cobrança.
+
+Blocos de até 40 minutos combinam teoria de 15 minutos, quando há trecho mapeado e lacuna, e prática estimada em quatro minutos por questão. O motor usa o tempo escolhido até 120 minutos e preserva tarefas iniciadas/concluídas em uma mudança de rotina/modelo. O tempo registrado continua separado. Questões já vistas com consulta não passam a inéditas na primeira resposta qualificada.
+
+No dia livre, Hoje oferece “Quero estudar hoje” sem mudar os dias da rotina. Horizonte: 90 dias corridos; o aplicativo não expira depois disso. O banco é finito e não há garantia de questões inéditas em todos os microassuntos indefinidamente.
+
+Teste com o catálogo real, três trajetórias (80% de acertos, todos errados e todos certos), 90 dias, segunda a sexta: 65 dias de estudo, oito matérias contempladas, nenhum dia de estudo vazio, 798–846 respostas e 661–673 famílias novas; cerca de 117 minutos planejados/dia. A simulação não prevê resultados do aluno e não comprova a correção editorial dos gabaritos. Script: `tests/simulate_90_days.mjs`, passando um JSON do conteúdo preparado como argumento.
+
+A sincronização segura em `supabase/sync_safe.py` salva snapshot fora do repositório, interrompe em gabarito divergente, prepara PDFs antes de ativar o catálogo e arquiva itens retirados sem apagar eventos. Não publique credenciais administrativas.

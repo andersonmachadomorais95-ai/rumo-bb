@@ -45,11 +45,11 @@ const answer = (index, correct = true, extra = {}) => ({
 test('diagnóstico inicial curto sugere teoria e prática sem exceder 120 minutos', () => {
  const diagnosis = diagnose(content, []);
  const plan = makePlan(content, [], new Date(2026, 9, 26, 9));
- assert.equal(MODEL, 'bb-2.1');
+ assert.equal(MODEL, 'bb-3.0');
  assert.equal(diagnosis.subjects.find(item => item.id === 's').mastery, 'Ainda estamos conhecendo seu desempenho');
  assert.ok(plan.tasks.some(task => task.kind === 'theory'));
  assert.ok(plan.tasks.some(task => task.kind === 'practice'));
- assert.ok(plan.tasks.length <= 5);
+ assert.ok(plan.tasks.length <= 8);
  assert.ok(plan.planned <= 120);
  assert.ok(plan.tasks.every(task => task.reason.length > 20));
 });
@@ -100,7 +100,7 @@ test('repetição imediata após consulta não vira questão nova; tentativa tar
  const immediate = answer(0, true, { at: '2026-10-01T13:00:00-03:00' });
  const afterWeek = answer(0, true, { at: '2026-10-08T13:00:00-03:00' });
  assert.equal(diagnose(content, [consulted, immediate]).subjects[0].newN, 0);
- assert.equal(diagnose(content, [consulted, afterWeek]).subjects[0].newN, 1);
+ assert.equal(diagnose(content, [consulted, afterWeek]).subjects[0].newN, 0);
 });
 
 test('manutenção exige amostra ampla e respostas espaçadas', () => {
@@ -232,4 +232,24 @@ test('questões repetidas ficam fora do bloco imediato e itens não objetivos do
  assert.equal(reduce(custom).settings.startTime,'08:30');
  assert.equal(makePlan({...content,questions:[]},custom,new Date(2026,9,25,9)).rest,false);
  assert.equal(makePlan(content,custom,new Date(2026,9,26,9)).rest,true);
+ });
+
+ test('dia livre oferece plano opcional sem alterar rotina',()=>{
+ const date=new Date(2026,9,25,9);
+ assert.equal(makePlan(content,[],date).rest,true);
+ const optional=makePlan(content,[],date,{optional:true});
+ assert.ok(optional.tasks.some(t=>t.questionIds?.length));
+ assert.equal(optional.optional,true);
+ assert.equal(reduce([{type:'plan',payload:optional}]).settings.days.includes(0),false);
+ assert.deepEqual(makePlan(content,[{type:'plan',payload:optional}],date),optional);
+ });
+ test('nova versão e mudança de rotina preservam tarefas iniciadas e concluídas',()=>{
+ const date=new Date(2026,9,26,9),plan=makePlan(content,[],date);
+ const keep=plan.tasks[0];
+ const events=[{type:'plan',payload:{...plan,model:'old'}},{type:'task',payload:{taskId:keep.id,status:'started'}},{type:'settings',payload:{days:[1],minutes:60}}];
+ const changed=makePlan(content,events,date);
+ assert.ok(changed.tasks.some(t=>t.id===keep.id));
+ assert.ok(changed.planned<=60);
+ const ids=changed.tasks.flatMap(t=>t.questionIds||[]);
+ assert.equal(ids.length,new Set(ids).size);
  });

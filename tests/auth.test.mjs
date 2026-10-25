@@ -65,6 +65,6 @@ test('Exportação rotula o modelo adaptativo atual sem alterar o histórico de 
  const backup=await api.exportData();
 
  assert.match(request,/\/rest\/v1\/rpc\/bb_export$/);
- assert.equal(backup.model,'bb-2.1');
+ assert.equal(backup.model,'bb-3.0');
  assert.deepEqual(backup.events,[]);
 });

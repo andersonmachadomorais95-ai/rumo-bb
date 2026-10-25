@@ -1,7 +1,7 @@
 import { bancaProfile } from './banca.mjs';
 
-export const MODEL = 'bb-2.1';
-export const DEFAULTS = { name: 'Luciano', minutes: 120, days: [1, 2, 3, 4, 5], startTime: '19:00', horizonDays: 120, scheduleVersion: 3 };
+export const MODEL = 'bb-3.0';
+export const DEFAULTS = { name: 'Luciano', minutes: 120, days: [1, 2, 3, 4, 5], startTime: '19:00', horizonDays: 90, scheduleVersion: 3 };
 
 export const dayKey = (date = new Date()) => (
  `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`
@@ -75,12 +75,12 @@ export function reduce(events) {
     minutes: Math.max(15, Math.min(120, Number(payload.minutes) || DEFAULTS.minutes)),
     days: [...new Set(days)],
     startTime: /^([01]\d|2[0-3]):[0-5]\d$/.test(payload.startTime || '') ? payload.startTime : state.settings.startTime,
-    horizonDays: 120,
+    horizonDays: 90,
     scheduleVersion: 3,
    };
   }
   if (event.type === 'answer') state.attempts.push({ ...payload, at: event.at, id: event.id });
-  if (event.type === 'plan' && (!state.plans[payload.day] || payload.model === MODEL && state.plans[payload.day].model !== MODEL)) state.plans[payload.day] = payload;
+  if (event.type === 'plan') state.plans[payload.day] = payload;
   if (event.type === 'task') state.tasks[payload.taskId] = payload;
   if (event.type === 'session') state.sessions[payload.id] = payload;
   if (event.type === 'close') state.closed[payload.day] = payload;
@@ -170,7 +170,7 @@ export function diagnose(content, events, now = new Date()) {
   topic.lastEvidence = attempt.at;
   qualifiedByFamily.set(family, attempt);
 
-  if (fresh) {
+  if (fresh && !previousSeen) {
    topic.newN++;
    topic.newCorrect += attempt.correct ? 1 : 0;
   } else {
@@ -346,93 +346,73 @@ function addTask(tasks, remaining, task) {
  return remaining - task.minutes;
 }
 
-export function makePlan(content, events, now = new Date()) {
+export function makePlan(content, events, now = new Date(), options = {}) {
  const diagnosis = diagnose(content, events, now), day = dayKey(now), state = diagnosis.state;
- if (state.plans[day]?.model === MODEL) return state.plans[day];
- if (!state.settings.days.includes(now.getDay())) {
-  return { day, tasks: [], rest: true, model: MODEL, planned: 0, capacity: state.settings.minutes };
+ const signature = JSON.stringify([state.settings.days,state.settings.minutes,state.settings.startTime]);
+ const previous = state.plans[day];
+ if (previous?.model === MODEL && previous.scheduleSignature === signature) return previous;
+ const tasks = (previous?.tasks || []).filter(t => ['started','done'].includes(state.tasks[t.id]?.status));
+ const capacity = state.settings.minutes;
+ let remaining = Math.max(0,capacity-tasks.reduce((n,t)=>n+t.minutes,0));
+ if (!state.settings.days.includes(now.getDay()) && !options.optional && !previous?.optional && !tasks.length)
+  return {day,tasks:[],rest:true,model:MODEL,planned:0,capacity,scheduleSignature:signature};
+ const topics = new Map(diagnosis.subjects.map(t=>[t.id,t]));
+ const pools = new Map(), reserved = new Set();
+ for (const task of tasks) for (const id of task.questionIds || []) reserved.add(familyOf(diagnosis.questions[id]||{id}));
+ for (const q of content.questions) {
+  if (!topics.has(q.assunto_id) || reserved.has(familyOf(q))) continue;
+  const seen = diagnosis.seen.get(familyOf(q));
+  if (seen && daysBetween(seen.at,now)<7) continue;
+  if (!pools.has(q.assunto_id)) pools.set(q.assunto_id,[]);
+  pools.get(q.assunto_id).push(q);
  }
-
- const scheduledCounts = new Map();
- for (const plan of Object.values(state.plans)) {
-  if (plan.day >= day) continue;
-  for (const subjectId of new Set((plan.tasks || []).map(task => task.subjectId).filter(Boolean))) {
-   scheduledCounts.set(subjectId, (scheduledCounts.get(subjectId) || 0) + 1);
+ const served = new Map();
+ for(const plan of Object.values(state.plans)) {
+  if(plan.day>=day)continue;
+  for(const t of plan.tasks||[]) {
+   const d=topics.get(t.subjectId)?.disciplineId;
+   if(d)served.set(d,(served.get(d)||0)+t.minutes);
   }
  }
- const candidates = diagnosis.subjects
-  .filter(topic => topic.available > 0 || theoryForSubject(content, topic.id))
-  .sort((a, b) => {
-   const dueA = a.reviewUrgency >= 0.65 ? 1 : 0, dueB = b.reviewUrgency >= 0.65 ? 1 : 0;
-   return dueB - dueA || b.priority - a.priority || b.costBenefit - a.costBenefit || a.id.localeCompare(b.id);
-  });
- const focus = [];
- const due = candidates.filter(topic => topic.reviewUrgency >= 0.65 && topic.uniqueEvidence > 0);
- if (due.length) focus.push(due[0]);
- const coverage = candidates.filter(topic => !focus.some(item => item.id === topic.id)).sort((a, b) => (
-  (scheduledCounts.get(a.id) || 0) - (scheduledCounts.get(b.id) || 0)
-  || a.newN - b.newN
-  || b.priority - a.priority
-  || b.costBenefit - a.costBenefit
-  || a.id.localeCompare(b.id)
- ));
- if (coverage[0]) focus.push(coverage[0]);
- if (focus.length < 2) {
-  const next = candidates.find(topic => !focus.some(item => item.id === topic.id));
-  if (next) focus.push(next);
+ for(const t of tasks){const d=topics.get(t.subjectId)?.disciplineId;if(d)served.set(d,(served.get(d)||0)+t.minutes);}
+ const chosen = new Set(tasks.map(t=>topics.get(t.subjectId)?.disciplineId));
+ const candidates = diagnosis.subjects.filter(t=>pools.get(t.id)?.length);
+ const disciplineIds=[...new Set(candidates.map(t=>t.disciplineId))];
+ const weights=new Map(disciplineIds.map(id=>[id,candidates.find(t=>t.disciplineId===id).historicalPriority || .05]));
+ const weightTotal=[...weights.values()].reduce((a,b)=>a+b,0);
+ const sections = new Map();
+ let slot=tasks.length;
+ while(remaining>=10 && candidates.length) {
+  const total=[...served.values()].reduce((a,b)=>a+b,0)+40;
+  const available=disciplineIds.filter(id=>candidates.some(t=>t.disciplineId===id&&pools.get(t.id)?.length));
+  if(!available.length)break;
+  const freshDisc=available.filter(id=>!chosen.has(id));
+  const choices=freshDisc.length?freshDisc:available;
+  choices.sort((a,b)=>(total*weights.get(b)/weightTotal-(served.get(b)||0))-(total*weights.get(a)/weightTotal-(served.get(a)||0)) || a.localeCompare(b));
+  const discipline=choices[0];
+  const ranked=candidates.filter(t=>t.disciplineId===discipline&&pools.get(t.id)?.length).sort((a,b)=>(slot%3!==2 ? Number(pools.get(b.id).some(q=>!diagnosis.seen.has(familyOf(q))))-Number(pools.get(a.id).some(q=>!diagnosis.seen.has(familyOf(q)))) : 0)||Number(tasks.some(t=>t.subjectId===a.id))-Number(tasks.some(t=>t.subjectId===b.id))||b.priority-a.priority||b.costBenefit-a.costBenefit||a.id.localeCompare(b.id));
+  const topic=ranked[0];
+  let pool=pools.get(topic.id).filter(q=>!reserved.has(familyOf(q)));
+  if(!pool.length){pools.set(topic.id,[]);continue;}
+  pool.sort((a,b)=>Number(diagnosis.seen.has(familyOf(a)))-Number(diagnosis.seen.has(familyOf(b)))||a.id.localeCompare(b.id));
+  if(!sections.has(topic.id))sections.set(topic.id,theoryForSubject(content,topic.id));
+  const section=sections.get(topic.id);
+  const blockBudget=Math.min(40,remaining);
+  const needsTheory=section && !tasks.some(t=>t.kind==='theory'&&t.subjectId===topic.id) && (topic.uniqueEvidence<3||topic.estimate<.5||topic.recurrentErrors>=2) && blockBudget>=30;
+  const theoryMinutes=needsTheory?15:0;
+  const count=Math.min(8,Math.floor((blockBudget-theoryMinutes)/4));
+  const selected=[];
+  for(const q of pool){if(reserved.has(familyOf(q)))continue;selected.push(q.id);reserved.add(familyOf(q));if(selected.length>=count)break;}
+  if(!selected.length){pools.set(topic.id,[]);continue;}
+  const reason=topic.reason+' Esta matéria entra para equilibrar o percurso com a distribuição histórica de pontos.';
+  const base=day+'-'+topic.id+'-'+slot++;
+  if(needsTheory){tasks.push({id:base+'-theory',kind:'theory',subjectId:topic.id,title:'Estudar um trecho direcionado',minutes:theoryMinutes,reason,section});remaining-=theoryMinutes;}
+  const practiceMinutes=Math.min(remaining,Math.max(10,selected.length*4));
+  tasks.push({id:base+'-practice',kind:'practice',subjectId:topic.id,title:topic.uniqueEvidence<3?'Conhecer seu ponto de partida':'Praticar e verificar a retenção',minutes:practiceMinutes,reason,questionIds:selected});
+  remaining-=practiceMinutes;served.set(discipline,(served.get(discipline)||0)+theoryMinutes+practiceMinutes);chosen.add(discipline);
+  pools.set(topic.id,pool.filter(q=>!reserved.has(familyOf(q))));
  }
-
- const tasks = [];
- let remaining = Math.min(120, state.settings.minutes);
- for (const [index, topic] of focus.entries()) {
-  const section = theoryForSubject(content, topic.id);
-  const questionIds = selectQuestions(content, events, topic.id, 5, now);
-  const needTheory = !!section && (
-   topic.uniqueEvidence < 3 || topic.recurrentErrors >= 2 || (topic.uniqueEvidence >= 3 && topic.estimate < 0.5)
-  );
-  const theoryMinutes = index === 0 ? 20 : 15;
-  const practiceMinutes = index === 0 ? 20 : 15;
-  if (needTheory && remaining >= 15) {
-   remaining = addTask(tasks, remaining, {
-    id: `${day}-${topic.id}-theory`,
-    kind: 'theory',
-    subjectId: topic.id,
-    title: topic.uniqueEvidence < 3 ? 'Conhecer o assunto' : 'Retomar um ponto específico',
-    minutes: theoryMinutes,
-    reason: topic.reason,
-    section,
-    costBenefit: topic.costBenefit,
-   });
-  }
-  if (questionIds.length && remaining >= 10) {
-   const review = topic.reviewUrgency >= 0.65 && topic.uniqueEvidence > 0;
-   remaining = addTask(tasks, remaining, {
-    id: `${day}-${topic.id}-${review ? 'review' : 'practice'}`,
-    kind: review ? 'review' : 'practice',
-    subjectId: topic.id,
-    title: review ? 'Revisar com questões espaçadas' : topic.uniqueEvidence < 3 ? 'Primeiro bloco curto' : 'Praticar e verificar',
-    minutes: practiceMinutes,
-    reason: !section && topic.uniqueEvidence < 3
-     ? 'Ainda estamos conhecendo seu desempenho; comece com este bloco curto. Não há um trecho de PDF vinculado a este assunto no acervo atual.'
-     : topic.reason,
-    questionIds,
-    costBenefit: topic.costBenefit,
-   });
-  }
- }
-
- const studyPlans = Object.keys(state.plans).filter(key => key < day && !state.plans[key].rest).length;
- return {
-  day,
-  tasks,
-  rest: false,
-  model: MODEL,
-  planned: tasks.reduce((sum, task) => sum + task.minutes, 0),
-  capacity: Math.min(120, state.settings.minutes),
-  stage: diagnosis.subjects.reduce((sum, topic) => sum + topic.newN, 0) < 30 ? 'diagnóstico inicial gradual' : 'mentoria adaptativa',
-  studyDayNumber: studyPlans + 1,
-  notice: remaining >= 15
-   ? 'O plano não ocupa todo o tempo disponível: não há conteúdo liberado ou evidência suficiente para justificar mais tarefas. O tempo restante não vira dívida.'
-   : null,
- };
+ return {day,tasks,rest:false,optional:!!options.optional||!!previous?.optional,model:MODEL,scheduleSignature:signature,
+ planned:tasks.reduce((n,t)=>n+t.minutes,0),capacity,stage:'percurso adaptativo de 90 dias',
+ notice:remaining>=10?'Os itens elegíveis para hoje foram utilizados; a prática espaçada será retomada nos próximos dias.':null};
 }

@@ -55,9 +55,9 @@ class API(unittest.TestCase):
   e={'id':str(uuid.uuid4()),'type':'answer','at':'2026-10-24T12:00:00Z','payload':{'questionId':q['id']}}
   with self.assertRaises(urllib.error.HTTPError):self.request('/api/event',e)
  def test_08_practice_content_is_structurally_answerable(self):
-  self.assertEqual(server.CONTENT['coverage']['released'],5025)
-  self.assertEqual(server.CONTENT['coverage']['quarantine'],975)
-  self.assertEqual(server.CONTENT['coverage']['reviewPending'],5003)
+  self.assertEqual(server.CONTENT['coverage']['released'],5024)
+  self.assertEqual(server.CONTENT['coverage']['quarantine'],976)
+  self.assertEqual(server.CONTENT['coverage']['reviewPending'],5002)
   source_files={}
   for source in server.SOURCES:
    source_files.setdefault(source['questao_id'],[]).append(source.get('arquivo_original',''))
